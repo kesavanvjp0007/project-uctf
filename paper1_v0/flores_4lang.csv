@@ -1,0 +1,81 @@
+sentence_id,language_code,language_name,text
+1,eng_Latn,English,The sun rises in the east.
+1,zho_Hans,Chinese,太阳从东方升起。
+1,jpn_Jpan,Japanese,太陽は東から昇る。
+1,rus_Cyrl,Russian,Солнце восходит на востоке.
+2,eng_Latn,English,Water boils at one hundred degrees Celsius.
+2,zho_Hans,Chinese,水在一百摄氏度时沸腾。
+2,jpn_Jpan,Japanese,水は摂氏100度で沸騰する。
+2,rus_Cyrl,Russian,Вода кипит при ста градусах Цельсия.
+3,eng_Latn,English,The child is playing in the garden.
+3,zho_Hans,Chinese,孩子在花园里玩耍。
+3,jpn_Jpan,Japanese,子供が庭で遊んでいる。
+3,rus_Cyrl,Russian,Ребёнок играет в саду.
+4,eng_Latn,English,Birds fly south in winter.
+4,zho_Hans,Chinese,鸟在冬天向南飞。
+4,jpn_Jpan,Japanese,鳥は冬に南へ飛ぶ。
+4,rus_Cyrl,Russian,Птицы летят на юг зимой.
+5,eng_Latn,English,The library opens at nine in the morning.
+5,zho_Hans,Chinese,图书馆早上九点开门。
+5,jpn_Jpan,Japanese,図書館は朝9時に開く。
+5,rus_Cyrl,Russian,Библиотека открывается в девять утра.
+6,eng_Latn,English,She reads a book every night before sleeping.
+6,zho_Hans,Chinese,她每晚睡前读一本书。
+6,jpn_Jpan,Japanese,彼女は毎晩寝る前に本を読む。
+6,rus_Cyrl,Russian,Она читает книгу каждую ночь перед сном.
+7,eng_Latn,English,The train arrives at the station on time.
+7,zho_Hans,Chinese,火车准时到达车站。
+7,jpn_Jpan,Japanese,電車は時間通りに駅に到着する。
+7,rus_Cyrl,Russian,Поезд прибывает на станцию вовремя.
+8,eng_Latn,English,Doctors work hard to save lives.
+8,zho_Hans,Chinese,医生努力工作以拯救生命。
+8,jpn_Jpan,Japanese,医者は命を救うために懸命に働く。
+8,rus_Cyrl,Russian,"Врачи усердно работают, чтобы спасать жизни."
+9,eng_Latn,English,The mountain is covered with snow.
+9,zho_Hans,Chinese,山上覆盖着雪。
+9,jpn_Jpan,Japanese,山は雪に覆われている。
+9,rus_Cyrl,Russian,Гора покрыта снегом.
+10,eng_Latn,English,Children learn languages faster than adults.
+10,zho_Hans,Chinese,孩子比成人学语言更快。
+10,jpn_Jpan,Japanese,子供は大人より早く言語を学ぶ。
+10,rus_Cyrl,Russian,"Дети учат языки быстрее, чем взрослые."
+11,eng_Latn,English,The market opens every Sunday morning.
+11,zho_Hans,Chinese,市场每周日早上开放。
+11,jpn_Jpan,Japanese,市場は毎週日曜日の朝に開く。
+11,rus_Cyrl,Russian,Рынок открывается каждое воскресное утро.
+12,eng_Latn,English,Music brings people together.
+12,zho_Hans,Chinese,音乐将人们聚集在一起。
+12,jpn_Jpan,Japanese,音楽は人々を結びつける。
+12,rus_Cyrl,Russian,Музыка объединяет людей.
+13,eng_Latn,English,The river flows slowly through the valley.
+13,zho_Hans,Chinese,河流缓慢地流过山谷。
+13,jpn_Jpan,Japanese,川はゆっくりと谷を流れる。
+13,rus_Cyrl,Russian,Река медленно течёт по долине.
+14,eng_Latn,English,He forgot his keys at home.
+14,zho_Hans,Chinese,他把钥匙忘在家里了。
+14,jpn_Jpan,Japanese,彼は鍵を家に忘れた。
+14,rus_Cyrl,Russian,Он забыл ключи дома.
+15,eng_Latn,English,The dog barked loudly at the stranger.
+15,zho_Hans,Chinese,狗对陌生人大声吠叫。
+15,jpn_Jpan,Japanese,犬は見知らぬ人に大声で吠えた。
+15,rus_Cyrl,Russian,Собака громко залаяла на незнакомца.
+16,eng_Latn,English,Fresh air is good for your health.
+16,zho_Hans,Chinese,新鲜空气对健康有益。
+16,jpn_Jpan,Japanese,新鮮な空気は健康に良い。
+16,rus_Cyrl,Russian,Свежий воздух полезен для здоровья.
+17,eng_Latn,English,The students passed their examinations.
+17,zho_Hans,Chinese,学生们通过了考试。
+17,jpn_Jpan,Japanese,生徒たちは試験に合格した。
+17,rus_Cyrl,Russian,Студенты сдали экзамены.
+18,eng_Latn,English,Rain fell heavily throughout the night.
+18,zho_Hans,Chinese,整晚大雨倾盆。
+18,jpn_Jpan,Japanese,夜通し激しい雨が降った。
+18,rus_Cyrl,Russian,Всю ночь шёл сильный дождь.
+19,eng_Latn,English,The old bridge was built two centuries ago.
+19,zho_Hans,Chinese,这座古桥建于两个世纪前。
+19,jpn_Jpan,Japanese,その古い橋は2世紀前に建てられた。
+19,rus_Cyrl,Russian,Старый мост был построен два века назад.
+20,eng_Latn,English,Knowledge is the greatest treasure.
+20,zho_Hans,Chinese,知识是最大的财富。
+20,jpn_Jpan,Japanese,知識は最大の宝である。
+20,rus_Cyrl,Russian,Знание — величайшее сокровище.
