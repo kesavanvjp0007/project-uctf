@@ -1,0 +1,1201 @@
+sentence_id,language_code,language_name,text
+5000,eng_Latn,English,Delete Thread
+5000,ne,Nepali,थ्रेड मेट्नुहोस्
+5001,eng_Latn,English,Treize
+5001,ne,Nepali,ट्रेइज
+5002,eng_Latn,English,(Descending)
+5002,ne,Nepali,(घट्दो क्रम)
+5003,eng_Latn,English,Move right
+5003,ne,Nepali,दाँया सार्नुहोस्
+5004,eng_Latn,English,Clean module associated with current file
+5004,ne,Nepali,हालको फाइलसँग जोडिएका मोड्युल हटाउन सफा गर्नुहोस्
+5005,eng_Latn,English,Hint: Column %d
+5005,ne,Nepali,सङ्केत: स्तम्भ %d
+5006,eng_Latn,English,Subversion: Diff complete.
+5006,ne,Nepali,उपसंस्करण: फरक फाइल/डाइरेक्टरी
+5007,eng_Latn,English,Tar compressed with lzip (.tar.lz)
+5007,ne,Nepali,lzop सँग सङ्कुचितTar (.tar.lzo)
+5008,eng_Latn,English,"This function returns the probability quantile function, i.e., the inverse of the cumulative distribution function, of the geometric distribution."
+5008,ne,Nepali,"यो कार्यले संभाव्य क्वान्टाइल कार्य फर्काउँछ, यसको मतलब यो ज्यामितिय वितरणको, क्युमुलेटिभ वितरण कार्यको उल्टा हो।"
+5009,eng_Latn,English,Error connecting to wireless network
+5009,ne,Nepali,ताररहित संजाल '%s' सम्पर्क गरिदै...
+5010,eng_Latn,English,- Empathy IM Client
+5010,ne,Nepali,इम्प्याथी शीघ्र मेसेन्जर
+5011,eng_Latn,English,_Close All Folds
+5011,ne,Nepali,सबै फोल्डहरू बन्द गर्नुहोस्
+5012,eng_Latn,English,This list contains all extra directories containing plugins.
+5012,ne,Nepali,यो सूचीले प्लगइनहरू समावेश सबै अन्य डाइरेक्टरीहरू छन्।
+5013,eng_Latn,English,Tetravex
+5013,ne,Nepali,टेट्राभेक्स
+5014,eng_Latn,English,Rename
+5014,ne,Nepali,पुन: नामाकरण गर्नुहोस्
+5015,eng_Latn,English,Shift Righ_t and Move
+5015,ne,Nepali,दायाँ शीफ्ट गर्नुहोस् र सार्नुहोस्
+5016,eng_Latn,English,_Leave messages on server
+5016,ne,Nepali,सर्भरमा सन्देशहरू छोड्नुहोस्
+5017,eng_Latn,English,South _European (ISO-8859-3)
+5017,ne,Nepali,दक्षिण युरोपेली (ISO-8859-3)
+5018,eng_Latn,English,Emboss
+5018,ne,Nepali,इम्बोस
+5019,eng_Latn,English,Paste the clipboard
+5019,ne,Nepali,क्लिपबोर्ड टाँस्नुहोस्
+5020,eng_Latn,English,page tab list
+5020,ne,Nepali,पृष्ठ ट्याब सूची
+5021,eng_Latn,English,Print Size
+5021,ne,Nepali,मुद्रण साइज
+5022,eng_Latn,English,Document Relations
+5022,ne,Nepali,कागजात सम्बन्धहरूNAME OF TRANSLATORS
+5023,eng_Latn,English,Co_mpile (%s)
+5023,ne,Nepali,कम्पाइल (%s)
+5024,eng_Latn,English,paper size
+5024,ne,Nepali,paper size
+5025,eng_Latn,English,Orientation
+5025,ne,Nepali,अभिमूखिकरण
+5026,eng_Latn,English,_Contents
+5026,ne,Nepali,सामाग्रीहरू
+5027,eng_Latn,English,Whether there should be a tooltip on the item
+5027,ne,Nepali,जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो
+5028,eng_Latn,English,Copyright © %Id–%Id The Files authors
+5028,ne,Nepali,प्रतिलिपि अधिकार © १९९९-२००५ नटलस लेखक
+5029,eng_Latn,English,_Accept License
+5029,ne,Nepali,इजाजतपत्र स्वीकार गर्नुहोस्
+5030,eng_Latn,English,%s:
+5030,ne,Nepali,%s:
+5031,eng_Latn,English,paper size
+5031,ne,Nepali,paper size
+5032,eng_Latn,English,Add files to an archive
+5032,ne,Nepali,एउटा सङ्ग्रहमा फाइलहरू थप्नुहोस्Date Modified
+5033,eng_Latn,English,Valid until:
+5033,ne,Nepali,यससम्म वैध:
+5034,eng_Latn,English,paper size
+5034,ne,Nepali,paper size
+5035,eng_Latn,English,Open
+5035,ne,Nepali,खोल्नुहोस्
+5036,eng_Latn,English,Create a new palette
+5036,ne,Nepali,palettes-action
+5037,eng_Latn,English,4 of a Kind [total]
+5037,ne,Nepali,एक प्रकारको ४ [जम्मा]
+5038,eng_Latn,English,Add _Script
+5038,ne,Nepali,स्क्रिप्ट थप्नुहोस्
+5039,eng_Latn,English,%s lb
+5039,ne,Nepali,unit-symbols
+5040,eng_Latn,English,Central and South America
+5040,ne,Nepali,केन्द्रीय र साउथ अमेरिका
+5041,eng_Latn,English,Automatically hide panel into corner
+5041,ne,Nepali,कुनाम प्यानल स्वचालित रूपमा लुकाउनुहोस्
+5042,eng_Latn,English,Evolution vCard Importer
+5042,ne,Nepali,इभोल्युसन भी कार्ड आयातकर्ताn-pages
+5043,eng_Latn,English,paper size
+5043,ne,Nepali,paper size
+5044,eng_Latn,English,_Print
+5044,ne,Nepali,मुद्रण गर्नुहोस्Stock label
+5045,eng_Latn,English,Error
+5045,ne,Nepali,त्रुटि
+5046,eng_Latn,English,Wrap after this length:
+5046,ne,Nepali,यो लम्बाइ पछि बेर्नुहोस्:
+5047,eng_Latn,English,"3.5 ""720KB"
+5047,ne,Nepali,"3. 5 ""720KB"
+5048,eng_Latn,English,Encoding
+5048,ne,Nepali,सङ्केतन
+5049,eng_Latn,English,No signature available
+5049,ne,Nepali,वर्णन उपलब्ध छैन
+5050,eng_Latn,English,Open
+5050,ne,Nepali,खोल्नुहोस्
+5051,eng_Latn,English,Testing Equality of 2 Variances (F-Test)
+5051,ne,Nepali,२ चलहरूको समानता परीक्षण (एफ-टेस्ट)
+5052,eng_Latn,English,Starting listing at result number:
+5052,ne,Nepali,परिणाम सङ्ख्यामा सुरु भइरहेको :
+5053,eng_Latn,English,Could not commit service
+5053,ne,Nepali,सेवाहरू कमिट गर्न सकेन
+5054,eng_Latn,English,Missing DSN name
+5054,ne,Nepali,क्वेरी नाम हराइरहेको छ
+5055,eng_Latn,English,Empty entity ';' seen; valid entities are: & &quot; &lt; &gt; &apos;
+5055,ne,Nepali,खाली अस्तित्व ';' देखियो; वैध अस्तित्वहरू निम्न हुन : & &quot; &lt; &gt; &apos;
+5056,eng_Latn,English,Feather Selection
+5056,ne,Nepali,undo-type
+5057,eng_Latn,English,_Stream Comment/Uncomment
+5057,ne,Nepali,प्रवाह टिप्पणी गरिएको/टिप्पणी नगरिएको
+5058,eng_Latn,English,Show the application's version
+5058,ne,Nepali,अनुप्रयोग कन्फिगर गर्नुहोस्
+5059,eng_Latn,English,"(c) 2004-2008, Gilles Caulier"
+5059,ne,Nepali,यहाँ छवि थम्बनेलमा माउस बटनसँग दायाँ क्लिक गर्दा गर्न उपयुक्त कार्य चयन गर्नुहोस् ।
+5060,eng_Latn,English,Text (rw-r--r--)
+5060,ne,Nepali,पाठ (rw-r--r--)
+5061,eng_Latn,English,paper size
+5061,ne,Nepali,paper size
+5062,eng_Latn,English,Create a clickable imagemap
+5062,ne,Nepali,क्लिक योग्य छविमानचित्र सिर्जना गर्नुहोस्
+5063,eng_Latn,English,No album selected
+5063,ne,Nepali,कुनै क्यामेरा पत्ता लागेन
+5064,eng_Latn,English,Calendar
+5064,ne,Nepali,क्यालेन्डर
+5065,eng_Latn,English,http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8
+5065,ne,Nepali,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8
+5066,eng_Latn,English,You are searching for a three.
+5066,ne,Nepali,तपाईँ %s खोजिरहनुभएको छ ।
+5067,eng_Latn,English,Export bookmarks to a file
+5067,ne,Nepali,एउटा फाइलमा पुस्तकचिनो निर्यात गर्नुहोस्
+5068,eng_Latn,English,Could not create folder '%s': %s
+5068,ne,Nepali,`%s' फोल्डर सिर्जना गर्न सकेन: %s
+5069,eng_Latn,English,DateEdit Flags
+5069,ne,Nepali,मिति सम्पादन झन्डा
+5070,eng_Latn,English,Change _Date…
+5070,ne,Nepali,मिति परिवर्तन गर्नुहोस्
+5071,eng_Latn,English,Arabic (_IBM-864)
+5071,ne,Nepali,अरेबिक (_IBM-864)
+5072,eng_Latn,English,_Reload
+5072,ne,Nepali,पुन: लोड गर्नुहोस्
+5073,eng_Latn,English,%s hours
+5073,ne,Nepali,unit-symbols
+5074,eng_Latn,English,"IP Telephony, VoIP and Video Conferencing"
+5074,ne,Nepali,"IP टेलिफोनी, VoIP र भिडियो कन्फेरेन्सिङ"
+5075,eng_Latn,English,No more radio buttons.
+5075,ne,Nepali,अरू रेडियो टाँकहरू छैनन् ।
+5076,eng_Latn,English,%s:
+5076,ne,Nepali,%s:
+5077,eng_Latn,English,Check for new articles automatically
+5077,ne,Nepali,नयाँ लेखका लागि स्वचालित रूपमा जाँच गर्नुहोस्
+5078,eng_Latn,English,SSHFS Remote Synchronization User Name
+5078,ne,Nepali,समक्रमण सेवा एड इन चयन गरियो
+5079,eng_Latn,English,Game Over!
+5079,ne,Nepali,खेल समाप्त !
+5080,eng_Latn,English,GNOME Games web site
+5080,ne,Nepali,जिनोम खेल वेब साइट
+5081,eng_Latn,English,_Selection
+5081,ne,Nepali,चयन गर्नुहोस्
+5082,eng_Latn,English,Screen Number: %d
+5082,ne,Nepali,पर्दा नम्बर: %d
+5083,eng_Latn,English,D_elete Memo List
+5083,ne,Nepali,नयाँ मेमो सूची
+5084,eng_Latn,English,Show the previous move
+5084,ne,Nepali,अघिल्लो चाल देखाउनुहोस्
+5085,eng_Latn,English,_Lower Path
+5085,ne,Nepali,vectors-action
+5086,eng_Latn,English,Use revision:
+5086,ne,Nepali,संशोधन प्रयोग गर्नुहोस्:
+5087,eng_Latn,English,Properties
+5087,ne,Nepali,गुणहरू
+5088,eng_Latn,English,Encodings
+5088,ne,Nepali,सङ्केतन
+5089,eng_Latn,English,Saturation
+5089,ne,Nepali,अतितृप्त
+5090,eng_Latn,English,Network
+5090,ne,Nepali,सञ्जाल
+5091,eng_Latn,English,Rijeka
+5091,ne,Nepali,रिजेका
+5092,eng_Latn,English,There is nothing on the clipboard to paste.
+5092,ne,Nepali,टाँस्नका लागि क्लिपबोर्डमा केही पनि छैन ।create new folder
+5093,eng_Latn,English,_Toggle Bookmark
+5093,ne,Nepali,टगल पुस्तकचिनो
+5094,eng_Latn,English,make[%d]: Leaving directory `%s'
+5094,ne,Nepali,make[%d]: डाइरेक्टरी `%s' छोड्दैछ
+5095,eng_Latn,English,Title
+5095,ne,Nepali,शीर्षक
+5096,eng_Latn,English,Font:
+5096,ne,Nepali,फन्ट:
+5097,eng_Latn,English,Edit LDAP directory
+5097,ne,Nepali,प्रयोगकर्ता डाइरेक्टरी
+5098,eng_Latn,English,Custom Header
+5098,ne,Nepali,अनुकूलन सन्देश
+5099,eng_Latn,English,pressed
+5099,ne,Nepali,दबाइएकोtogglebutton
+5100,eng_Latn,English,Orientation
+5100,ne,Nepali,पोर्ट:Orientation
+5101,eng_Latn,English,_Send Options
+5101,ne,Nepali,विकल्पहरू पठाउनुहोस्
+5102,eng_Latn,English,Score:
+5102,ne,Nepali,प्राप्ताङ्क:
+5103,eng_Latn,English,Card themes:
+5103,ne,Nepali,तासका विषयवस्तु:
+5104,eng_Latn,English,Today %I:%M %p
+5104,ne,Nepali,friendly timeYesterday 12:34 am
+5105,eng_Latn,English,Insert Image
+5105,ne,Nepali,छवि घुसाउनुहोस्
+5106,eng_Latn,English,O_verride server-supplied folder namespace
+5106,ne,Nepali,सर्भर-आपूर्ति गरिएको फोल्डर नेमस्पेस अधिरोहण गर्नुहोस्
+5107,eng_Latn,English,Email Recipient Certificate
+5107,ne,Nepali,प्रापकको प्रमाणपत्र इमेल गर्नुहोस्
+5108,eng_Latn,English,Unknown
+5108,ne,Nepali,अज्ञात
+5109,eng_Latn,English,Whether to give blocks random colors
+5109,ne,Nepali,अनियमित रङका खण्ड दिन्छ या दिदैन
+5110,eng_Latn,English,Begin
+5110,ne,Nepali,keyboard label
+5111,eng_Latn,English,Yahoo
+5111,ne,Nepali,याहू
+5112,eng_Latn,English,Whether to show contacts that are offline in the contact list.
+5112,ne,Nepali,सम्पर्क सूचीमा अफलाइन भएका सम्पर्कहरूलाई देखाउने कि नदेखाउने ।
+5113,eng_Latn,English,An unknown person
+5113,ne,Nepali,एक अज्ञात व्यक्ति
+5114,eng_Latn,English,_Random
+5114,ne,Nepali,अनियमित
+5115,eng_Latn,English,To
+5115,ne,Nepali,लाई
+5116,eng_Latn,English,_Priority:
+5116,ne,Nepali,प्राथमिकता:
+5117,eng_Latn,English,Copy the selection
+5117,ne,Nepali,चयन प्रतिलिपि गर्नुहोस्
+5118,eng_Latn,English,GNOME port of the once-popular Color Lines game. Five or More is a part of GNOME Games.
+5118,ne,Nepali,एउटा प्रसिद्ध रङ लाइन खेलको जिनोम पोर्ट । पाँच वा बढी जिनोम खेलको भाग हो ।
+5119,eng_Latn,English,New Game
+5119,ne,Nepali,नयाँ खेल
+5120,eng_Latn,English,Cycles the debug level at run time.
+5120,ne,Nepali,चालू रह दा खानतलासी तहमा घुम्छ ।bookmark
+5121,eng_Latn,English,Support infrared remote control
+5121,ne,Nepali,अवरक्त टाढाको नियन्त्रणलाई समर्थन गर्नुहोस्
+5122,eng_Latn,English,Language
+5122,ne,Nepali,भाषाहरू
+5123,eng_Latn,English,No such book
+5123,ne,Nepali,त्यस प्रकारको %s फोल्डर छैन
+5124,eng_Latn,English,Unable to edit script
+5124,ne,Nepali,स्क्रिप्ट सम्पादन गर्न अक्षम
+5125,eng_Latn,English,selected
+5125,ne,Nepali,चयन गरियो
+5126,eng_Latn,English,"This key determines if the ""Contains the text"" search option is selected when the search tool is started."
+5126,ne,Nepali,"यस कुञ्जीले खोजी उपकरण सुरु गर्दा ""पाठ समाविष्ट"" खोजी विकल्प चयन गरिएको छ या छैन निर्धारण गर्दछ ।"
+5127,eng_Latn,English,paper size
+5127,ne,Nepali,paper size
+5128,eng_Latn,English,Sends a given signal to a given process
+5128,ne,Nepali,Name
+5129,eng_Latn,English,Cremona
+5129,ne,Nepali,क्रेमोनाitalyprovince. kgm
+5130,eng_Latn,English,Delete
+5130,ne,Nepali,स्थानीय रूपमा मेट्नुहोस्
+5131,eng_Latn,English,Remove current disc cover
+5131,ne,Nepali,हालको डिस्क आवरण हटाउनुहोस्
+5132,eng_Latn,English,Details
+5132,ne,Nepali,विस्तृत विवरण
+5133,eng_Latn,English,Jump to Breakpoint
+5133,ne,Nepali,विच्छेदन बिन्दुमा जानुहोस्
+5134,eng_Latn,English,Priority Text Beside Icons
+5134,ne,Nepali,प्रतिमाहरू बाहेकका प्राथमिकता पाठ
+5135,eng_Latn,English,Mi_nimize
+5135,ne,Nepali,घटाउनुहोस्
+5136,eng_Latn,English,No more paragraphs.
+5136,ne,Nepali,अरू बढि शिर्षकहरू छैन ।
+5137,eng_Latn,English,Whether or not to use animation.
+5137,ne,Nepali,एनिमेसन प्रयोग गर्ने या नगर्ने ।
+5138,eng_Latn,English,So_me
+5138,ne,Nepali,मलाई देखाउ ।
+5139,eng_Latn,English,Level two
+5139,ne,Nepali,स्तर दुई
+5140,eng_Latn,English,Contact Details
+5140,ne,Nepali,सम्पर्क विवरण
+5141,eng_Latn,English,Red Dragon
+5141,ne,Nepali,रातो ड्रागन
+5142,eng_Latn,English,Welcome
+5142,ne,Nepali,स्वागतम
+5143,eng_Latn,English,five of clubs
+5143,ne,Nepali,चिडीको पञ्जा
+5144,eng_Latn,English,"Default font color for new sticky notes. This should be in html hex specification, for example ""#000000""."
+5144,ne,Nepali,"नयाँ स्टिकिनोटहरूका लागि पूर्वनिर्धारित रङ्ग । यो html hex मा निर्दिष्टिकरण हुनुपर्दछ, उदाहरणका लागि ""#000000"" ।"
+5145,eng_Latn,English,Pelopones
+5145,ne,Nepali,पिलोपोन्स
+5146,eng_Latn,English,Start a new game
+5146,ne,Nepali,नयाँ खेल सुरु गर्नुहोस्
+5147,eng_Latn,English,Open
+5147,ne,Nepali,खोल्नुहोस्
+5148,eng_Latn,English,Ireland
+5148,ne,Nepali,आइर्ल्यान्ड
+5149,eng_Latn,English,Number of rows in a custom game
+5149,ne,Nepali,अनुकूल खेलमा पङ्‌क्ति सङ्ख्या
+5150,eng_Latn,English,Home Folder
+5150,ne,Nepali,Home Folder@ label: textbox
+5151,eng_Latn,English,Transformation %s
+5151,ne,Nepali,%s रूपान्तरण
+5152,eng_Latn,English,Mode:
+5152,ne,Nepali,मोड:
+5153,eng_Latn,English,Blue
+5153,ne,Nepali,नीलो
+5154,eng_Latn,English,Choose a working directory
+5154,ne,Nepali,कार्य डाइरेक्टरी:
+5155,eng_Latn,English,Rockhampton
+5155,ne,Nepali,रकह्याम्पटन
+5156,eng_Latn,English,Reloading will discard changes in: %s You cannot undo this operation.
+5156,ne,Nepali,यसमा परिवर्तनहरू रिलोड गर्नाले परिवर्तनहरू छोड्नेछ: %s तपाईँले यो सञ्चालन पूर्वावस्थामा फर्काउन सक्दैन ।
+5157,eng_Latn,English,Known Property Value
+5157,ne,Nepali,परिचित गुण मान
+5158,eng_Latn,English,Set a global variable
+5158,ne,Nepali,विश्वव्यापी चल सेट गर्नुहोस्
+5159,eng_Latn,English,Scan Filesystem
+5159,ne,Nepali,फाइल प्रणाली स्क्यान गर्नुहोस्
+5160,eng_Latn,English,n tilde
+5160,ne,Nepali,n टिल्डे
+5161,eng_Latn,English,Tagging Declaration
+5161,ne,Nepali,टयागिङ वर्णन
+5162,eng_Latn,English,Deselect all files
+5162,ne,Nepali,सबै फाइलहरू चयनबाट हटाउनुहोस्
+5163,eng_Latn,English,Password:
+5163,ne,Nepali,पासवर्ड:
+5164,eng_Latn,English,Cannot receive calendar objects:
+5164,ne,Nepali,सङ्केतक प्रसङ्ग सिर्जना गर्न सकिँदैन
+5165,eng_Latn,English,Font
+5165,ne,Nepali,फन्ट
+5166,eng_Latn,English,paper size
+5166,ne,Nepali,paper size
+5167,eng_Latn,English,Nordic
+5167,ne,Nepali,नोर्डिक
+5168,eng_Latn,English,%s: invalid comment '%s'
+5168,ne,Nepali,%s: अवैध टिप्पणी '%s'
+5169,eng_Latn,English,A subset of possible encodings are presented in the Encoding submenu. This is a list of encodings to appear there.
+5169,ne,Nepali,"सम्भावित सङ्केतनको सबसेटलाई सङ्केतन मेनुमा प्रस्तुत गरिन्छन् । यो त्यहाँ देखिने सङ्केतनको सूची हो । विशेष सङ्केतन नाम ""हाल"" को अर्थ सङ्केतनलाई हालको लोकेलमा प्रदर्शन गर्नु हो ।"
+5170,eng_Latn,English,Speaks unicode value of the current flat review character.
+5170,ne,Nepali,हालको समतल पुनरावलोकन क्यारेक्टर उच्चारण गर्दछ ।
+5171,eng_Latn,English,ftr
+5171,ne,Nepali,ftr
+5172,eng_Latn,English,Select the topmost layer
+5172,ne,Nepali,सबभन्दा उच्च तह चयन गर्नुहोस्layers-action
+5173,eng_Latn,English,Sending message %d of %d
+5173,ne,Nepali,%d को %d सन्देश पठाउँदै
+5174,eng_Latn,English,New Address Book
+5174,ne,Nepali,नयाँ ठेगाना पुस्तिकाNew
+5175,eng_Latn,English,5×5
+5175,ne,Nepali,५×५
+5176,eng_Latn,English,"Calculates the sinc function, that is sin(x)/x"
+5176,ne,Nepali,साईन प्रकार्य गणना गर्दछ
+5177,eng_Latn,English,Sho_w items that contain:
+5177,ne,Nepali,समाविष्ट गर्दैन
+5178,eng_Latn,English,Please choose the audio output device:
+5178,ne,Nepali,कृपया अडियो आगत यन्त्र रोज्नुहोस्:
+5179,eng_Latn,English,Attach mask to clip at clip position in clip size
+5179,ne,Nepali,क्लिप साइजमा क्लिप स्थिति भित्र मास्क संलग्न गर्नुहोस्
+5180,eng_Latn,English,%b %d %I:%M %p
+5180,ne,Nepali,%a %d %b %Yfriendly timeFeb 12 1997
+5181,eng_Latn,English,Perform changes within non-string values
+5181,ne,Nepali,स्ट्रिङ रहित मान भित्र परिवर्तन गर्नुहोस्
+5182,eng_Latn,English,Raise layer(s) to top
+5182,ne,Nepali,तह(हरू) बढाउनुहोस्
+5183,eng_Latn,English,The {0} header of this message is malformed and could not be processed. Header: {1}
+5183,ne,Nepali,यस सन्देशको{0} हेडर विकृत गरिएको छ र प्रक्रिया गर्न सकिँदैन । हेडर: {1}
+5184,eng_Latn,English,_Start game
+5184,ne,Nepali,खेल सुरु गर्नुहोस्
+5185,eng_Latn,English,Retinex Image Enhancement
+5185,ne,Nepali,रेटिनेक्स छवि वृद्धि
+5186,eng_Latn,English,Developer
+5186,ne,Nepali,Developer
+5187,eng_Latn,English,left alt
+5187,ne,Nepali,बायाँ alt
+5188,eng_Latn,English,Game Over!
+5188,ne,Nepali,खेल समाप्त !
+5189,eng_Latn,English,Not Indonesia
+5189,ne,Nepali,इन्डोनेशियाindonesia. kgm
+5190,eng_Latn,English,_About
+5190,ne,Nepali,बारेमा
+5191,eng_Latn,English,_Copy Location
+5191,ne,Nepali,स्थान प्रतिलिपि बनाउनुहोस्
+5192,eng_Latn,English,Title
+5192,ne,Nepali,शीर्षक
+5193,eng_Latn,English,Normal message indicator style:
+5193,ne,Nepali,सामान्य सन्देश सङ्केतन शैली:
+5194,eng_Latn,English,_Unsubscribe from List
+5194,ne,Nepali,सूचीबाट सदस्यता हटाउनुहोस्
+5195,eng_Latn,English,_Select All
+5195,ne,Nepali,सबै चयन गर्नुहोस्
+5196,eng_Latn,English,Server synchronization interval
+5196,ne,Nepali,समक्रमण विकल्पहरू...
+5197,eng_Latn,English,_Title:
+5197,ne,Nepali,शीर्षक
+5198,eng_Latn,English,_Do not Recover
+5198,ne,Nepali,पुन: प्राप्त नगर्नुहोस्
+5199,eng_Latn,English,Close this window
+5199,ne,Nepali,यस सञ्झ्याललाई बन्द गर्नुहोस्
+5200,eng_Latn,English,Because I believed in destiny and fate..
+5200,si,Sinhala,"මම මගේ ඉරනමයි, දෛවයයි විශ්වාස කරා.."
+5201,eng_Latn,English,You will get know slowly.
+5201,si,Sinhala,මම සේරම ඔයාට හෙමිහිට කියන්නම්.
+5202,eng_Latn,English,"Buckle up, guys. I am increasing the speed."
+5202,si,Sinhala,මම වේගය උපරිම කරනවා.
+5203,eng_Latn,English,I'm going to the bathroom again.
+5203,si,Sinhala,මට නාන කාමරේකට යන්න ඕන
+5204,eng_Latn,English,Convey my regards to the minister
+5204,si,Sinhala,ඇමතිතුමාට ස්තුතියි කළා කියන්න
+5205,eng_Latn,English,"""He died in a place he didn't need to be,"""
+5205,si,Sinhala,"""එයා මලේ එයා නොසිටිය යුතු තැනක දී,"
+5206,eng_Latn,English,How did it get inside?
+5206,si,Sinhala,කොහොමද උන් ඇතුලට ආවෙ?
+5207,eng_Latn,English,"Hey, Rinky."
+5207,si,Sinhala,කබීර්...
+5208,eng_Latn,English,"Sait, look at them"
+5208,si,Sinhala,"ලොක්කා, මේ බලන්න"
+5209,eng_Latn,English,- [Guitar riff] -♪ Battlesaurs ♪
+5209,si,Sinhala,♪ බැල්ට්සෝරස් ♪
+5210,eng_Latn,English,"-Would you like me to connect you? -Yes, please."
+5210,si,Sinhala,-සම්බන්ධ කරන තුරු කරුණාකර රැදී සිටින්න.
+5211,eng_Latn,English,Army... of the 12 Monkeys.
+5211,si,Sinhala,හමුදාව... .. වානරයන් 12 දෙනාගේ.
+5212,eng_Latn,English,- What?
+5212,si,Sinhala,- මොකක්?
+5213,eng_Latn,English,I'm sorry. I think I'm lost. Are you from Los Angeles?
+5213,si,Sinhala,"මම හිතන්නෙ මම අතරමං වෙලා, ඔයා ලොස් ඇන්ජලීස් වල කනෙකෝද?"
+5214,eng_Latn,English,"Uh, I felt something touch me. Something strange."
+5214,si,Sinhala,මට මහ අමුතු හැඟීමක් ආවා.
+5215,eng_Latn,English,Look over there..
+5215,si,Sinhala,අර පැත්ත බලන්න..
+5216,eng_Latn,English,John Daggett's body was found in a dumpster an hour ago.
+5216,si,Sinhala,පැයකට කලින් ජෝන් ඩැගට් ගේ මළසිරුර හම්බවුනා කුණුදාන තැන තිබිලා.
+5217,eng_Latn,English,"No, Mom, it was an accident."
+5217,si,Sinhala,"නෑ අම්මේ, ඒක අනතුරක්∙"
+5218,eng_Latn,English,"Listen, we both know that cancer is a shit show."
+5218,si,Sinhala,අහන්න. අපි දෙන්නම දන්නවා දැන් පිළිකාවේ උපරිම මට්ටම කියලා.
+5219,eng_Latn,English,Then what about the short guy?
+5219,si,Sinhala,එහෙනම් මිට්ටා?
+5220,eng_Latn,English,"No, I - I would have doubted me too."
+5220,si,Sinhala,"- නෑ, මටත් මම ගැන සැකයක් තිබුන."
+5221,eng_Latn,English,And boys too...
+5221,si,Sinhala,පිරිමි ලමයිනුත් ඉන්නවා කිව්වා ...
+5222,eng_Latn,English,Ok Alright then you and your cameraman will remain in custody until you come out with the truth.
+5222,si,Sinhala,"හරි, ඔයා ඇත්ත නොකිව්වොත් ඔයයි ඔයාගේ කැමරා කාරයයි දෙන්නම අත්අඩංගුවට ගන්නවා"
+5223,eng_Latn,English,-I wish I had 10 more like you.
+5223,si,Sinhala,-අනේ මට තව උඹ වගේ 10ක් හිටියනම්.
+5224,eng_Latn,English,I just blew a shot at your grandma's memory.
+5224,si,Sinhala,මං උබේ ආච්චිගේ මතකයට ෂොට් එකක් දුන්නා.
+5225,eng_Latn,English,Now. Choose.
+5225,si,Sinhala,තෝරා ගන්න..
+5226,eng_Latn,English,"Just hold on. Come on, get her out."
+5226,si,Sinhala,එන්න එයාව එලියට ගමු.
+5227,eng_Latn,English,It started out as a scrapbook and just kind of mutated.
+5227,si,Sinhala,ඒක පටන් ගත්තේ ලිපි අලවන පොතක් හැටියට ඒවගේම ඩිංගක් වෙනස් වීමකට භාජනය උනා∙
+5228,eng_Latn,English,I decided what I'm gonna do.
+5228,si,Sinhala,මං කරන්න යන එක තීරණය කළා.
+5229,eng_Latn,English,I want to express my true feelings.
+5229,si,Sinhala,මට මගේ ඇත්ත හැඟීම් පෙන්නන්න ඕන.
+5230,eng_Latn,English,Good night.
+5230,si,Sinhala,සුභ රාත්‍රියක්.
+5231,eng_Latn,English,I'm a Patriot!
+5231,si,Sinhala,මම දේශප්‍රේමීයෙක්!
+5232,eng_Latn,English,"The same laughter Welcome, my son"
+5232,si,Sinhala,එන්න මල්ලි
+5233,eng_Latn,English,I fought my way back for you.
+5233,si,Sinhala,මම ඔයා වෙනුවෙන් ඉන්නවා∙
+5234,eng_Latn,English,- You will get the rest of your money... and don't call me ever again.
+5234,si,Sinhala,වැඩේ කෙරුනට පස්සෙ තමුන්ගේ සල්ලි ලැබෙයි. අදින් පස්සෙ කවදාවත් මට කෝල් කරන්න එපා.
+5235,eng_Latn,English,Voice...
+5235,si,Sinhala,කටහඩ..
+5236,eng_Latn,English,The sales of double-bed dips down.
+5236,si,Sinhala,ද්විත්ව ඇඳන් විකිණුම් අවපාතය පහළ යනව.
+5237,eng_Latn,English,I let you in. Now please let the girl go.
+5237,si,Sinhala,මම ඉන්නම්∙ අනේ මේ කෙල්ලට යන්න දෙන්න∙
+5238,eng_Latn,English,"Get out of there, Kerns!"
+5238,si,Sinhala,ඔතනින් ඉක්මනට අයින් වෙනවා කර්න්ස්!
+5239,eng_Latn,English,Don't let him play you as well.
+5239,si,Sinhala,ඔයාට එයත් එක්ක සෙල්ලන් කරන්න දෙන්න එපා..
+5240,eng_Latn,English,If the powder's...
+5240,si,Sinhala,වෙඩිබෙහෙත්...
+5241,eng_Latn,English,You just killed how many people in that church.
+5241,si,Sinhala,"මොකක්, අර පල්ලියේ ඇතුලෙදි ඔයා කීයක් මැරුවද?"
+5242,eng_Latn,English,Let Bhabhi feel at least once that she is the daughter-in-law of this family.
+5242,si,Sinhala,අක්කට මේ ගෙදර ඉන්න දෙන්න ටිකක් හරි එයා මේ ගෙදර ලේලි.
+5243,eng_Latn,English,'They were submerged in sorrow'
+5243,si,Sinhala,"‍ශෝ‍ක‍යෙන්‍ ‍දි‍ය‍වී ‍ය‍න ‍මේ ‍ජ‍න‍යා‍ව, ‍ වේ‍දා‍ල ‍ජා‍ති‍යේ ‍අත්‍ ‍මි‍ටෙන්‍ ‍මු‍ද‍වා,"
+5244,eng_Latn,English,Watching you like this...
+5244,si,Sinhala,ඔයාව මේ විදිහට බලන්න...
+5245,eng_Latn,English,Do you remember the authentic aboriginal walkabout?
+5245,si,Sinhala,∙∙∙සත්‍ය අදිවාසික සංචාරයන් ගැන එහෙම?
+5246,eng_Latn,English,You're ruining Ranjana's life.
+5246,si,Sinhala,හිතුවක්කාරකම. ඔයා රංජනාගෙ ජීවිතේ විනාශ කරනව.
+5247,eng_Latn,English,Why?
+5247,si,Sinhala,ඇයි?
+5248,eng_Latn,English,I know.
+5248,si,Sinhala,මං දන්නවා
+5249,eng_Latn,English,Thieves! Fire! Murder!
+5249,si,Sinhala,"හොරු, පහර දෙන්න.."
+5250,eng_Latn,English,I'll pay in full cash.
+5250,si,Sinhala,මම ගෙවන්නම්.
+5251,eng_Latn,English,Why do you say?
+5251,si,Sinhala,ඔයා ඇයි එහෙම කිව්වේ?
+5252,eng_Latn,English,Wretched hoodlums! They literally prayed to this heirloom in Hindu fashion
+5252,si,Sinhala,සීනුව ගහලා පුජාවක් කරලා මල්මාලේ අරගෙන ගිහින්
+5253,eng_Latn,English,Allegations against me is a major conspiracy
+5253,si,Sinhala,මගේ පැත්තට ඇඟිල්ල දික් කරන එක තමයි කරන ලොකුම ද්‍රෝහී කම
+5254,eng_Latn,English,-Parithi..
+5254,si,Sinhala,-පරිති..
+5255,eng_Latn,English,"They're getting to you, dude."
+5255,si,Sinhala,එයාලා ඕවා දෙන්නේ බං.
+5256,eng_Latn,English,"""I went out of my way to help him."""
+5256,si,Sinhala,මේ හැමදෙයක්ම මටම පෙන්නේ ඇයි.
+5257,eng_Latn,English,I have enough resources to spend on my own and build
+5257,si,Sinhala,ඔයාගේ ඉල්ලීමට අවසර ලැබෙනවා
+5258,eng_Latn,English,"Mother, people are crying because you have not announced the death of Baahubali"
+5258,si,Sinhala,- අම්මා.. - බාහුබලීගේ මරණයට හරිහමන් පිළිතුරක් නොලැබුන නිසා කාක්කු වගේ මිනිස්සු කෑ ගහනවා.
+5259,eng_Latn,English,"No, I think this is about us."
+5259,si,Sinhala,"නෑ, මම හිතන්නෙ මේක අපි ගැන දෙයක්."
+5260,eng_Latn,English,We just took a job upgrading an ancient nuclear power plant.
+5260,si,Sinhala,අපිට වැඩක් හම්බ උනා පරණ න්‍යෂ්ටික බලාගාරයක.
+5261,eng_Latn,English,Something tells me he might be past listening to reason.
+5261,si,Sinhala,මොකක්දේ මට කියනවා එයා හේතු වලට කන් දීම නවත්වලා කියලා.
+5262,eng_Latn,English,I'll kill you. You have my word.
+5262,si,Sinhala,"මං ඔබව මරනවා, ඔයා මගේ වචනය තියාගන්න."
+5263,eng_Latn,English,Next thing I know I'm zip tied to the banister and he's taking Andrej and Jovana into the bedroom.
+5263,si,Sinhala,ඊලඟට මම දන්නේ මාව වැටට තියලා තදින් බැඳලා හිටිය බවයි ඒ වගේම ඔහු අන්ඩ්රේවයි ජොවානාවයි නිදන කාමරේට අරන් ගිහින්.
+5264,eng_Latn,English,– Mr. Gandalf? – Hmm?
+5264,si,Sinhala,"මිස්ටර් ගැන්ඩල්ෆ්, මෙන්න ඔයා ඉල්ලපු විදියටම රෙඩ් වයින් වීදුරුවක්."
+5265,eng_Latn,English,"Varun, please, don't start now. Varun, please."
+5265,si,Sinhala,වරුන් දැන් මේක ඇදලා ගන්න එපා වරුන් යන්න
+5266,eng_Latn,English,"By the way, our aim is same."
+5266,si,Sinhala,අපේ අරමුණ එකමයි.
+5267,eng_Latn,English,I'm in L.A. Tell her.
+5267,si,Sinhala,මම LA වල. - එයාට කියපන්.
+5268,eng_Latn,English,People have hearts everywhere.
+5268,si,Sinhala,-හදවත් තියෙන මිනිස්සු හැම තැනම ඉන්නවා.
+5269,eng_Latn,English,- What?
+5269,si,Sinhala,- මොකක්?
+5270,eng_Latn,English,They do this everyday.
+5270,si,Sinhala,මුන් මේ වැඩේ හැමදාම කරනවා.
+5271,eng_Latn,English,"Besides, these kids look up to me.."
+5271,si,Sinhala,අනික මේ ළමයි මට කැමතියි..
+5272,eng_Latn,English,You wouldn't have got beaten if I wasn't with you.
+5272,si,Sinhala,මම ඔයා එක්ක හිට්යේ නැත්නම් ඔයා ගුටි කන්නේ නැහැනේ.
+5273,eng_Latn,English,I'm headed down to the security desk now to pull footage.
+5273,si,Sinhala,"මං ආරක්ශක කාමරේට යනවා, කැමරා වීඩියෝ බලන්න"
+5274,eng_Latn,English,I was wondering if you could help me...
+5274,si,Sinhala,ඔයාට මට උදව් කරන්න පුලුවන්ද
+5275,eng_Latn,English,Maya...is it ok if I bring a friend?
+5275,si,Sinhala,මායා.. මම යාලුවෙක් එක්කරගෙන ආවට කමක් නැද්ද?
+5276,eng_Latn,English,"""O damsel."""
+5276,si,Sinhala,ඕ ලමිස්සියෙ.
+5277,eng_Latn,English,Tell him that his father was..
+5277,si,Sinhala,එයාට කියන්න එයාගෙ තාත්ත..
+5278,eng_Latn,English,Enquire about him
+5278,si,Sinhala,- සර් කී දෙනෙක්ද
+5279,eng_Latn,English,Hah! Look who's talking about being desperate!
+5279,si,Sinhala,බලාගෙන ඉන්න කවුද බලාපොරොත්තු නැතිවීම දිහා බලන් ඉන්නෙ කියලා!
+5280,eng_Latn,English,It's dual-band. Military spec.
+5280,si,Sinhala,කාණ්ඩ දෙකෙ හමුදා එකක්∙
+5281,eng_Latn,English,It's a problem within this area We'll loose our respect if we handle in a wrong way
+5281,si,Sinhala,මේක ගමේ ප්‍රශ්ණයක් වෙන විදියට කරන්න ගියොත් ගෞරවය නැති වෙයි
+5282,eng_Latn,English,Because that's the exit.
+5282,si,Sinhala,මොකද ඒක තමයි පිටවීම
+5283,eng_Latn,English,If any other student wants to go along..
+5283,si,Sinhala,වෙනත් සිසුන්ට යන්න ඕන නම්..
+5284,eng_Latn,English,Yeah.
+5284,si,Sinhala,ඔව්.
+5285,eng_Latn,English,I was... the guy that told you not to worry about the turbulence.
+5285,si,Sinhala,∙∙∙අර ඔයාට භය වෙන්න දෙයක් නෑ කියපු කෙනා∙
+5286,eng_Latn,English,"Yes, I called the guy."
+5286,si,Sinhala,"ඔව්, මම ඒ මිනිහා හමුවිය."
+5287,eng_Latn,English,That's the thing about Clark Kent.
+5287,si,Sinhala,ඒක තමා ක්ලාර්ක් කෙන්ට් ගැන සිද්දිය ∙ ඔයාට ඕනේ වෙලාවට ඔහු එතන නැ ∙∙∙
+5288,eng_Latn,English,Than people have been led to believe?
+5288,si,Sinhala,මිනිස්සු විශ්වාස කරන දේවල් වලට වඩා?
+5289,eng_Latn,English,I have not brought acquainted.
+5289,si,Sinhala,ඒ ගැන හොඳින් දන්නවනේ.
+5290,eng_Latn,English,Anything that would enlighten us concerning this?
+5290,si,Sinhala,මොනාහරි ඔයා දැන් ඉන්න තත්වය ගැන අපිට කියන්න තියද?
+5291,eng_Latn,English,You don't seem to understand..
+5291,si,Sinhala,- මං කියන දේ ඔයා තේරුම් ගන්නේ නැහැ.
+5292,eng_Latn,English,To send a... a warning to you through Amanda.
+5292,si,Sinhala,පණිවිඩයක් යවන්න... අමන්දා අතේ.
+5293,eng_Latn,English,[man] We don't want him to get sick.
+5293,si,Sinhala,අපිට එයාට ලෙඩ වෙන්න දෙන්න බැහැ.
+5294,eng_Latn,English,- Or stole the boots.
+5294,si,Sinhala,- සපත්තු හොරකම් කළේ මකරෙක් කියලා.
+5295,eng_Latn,English,'We take advantage of those we would gain something from.'
+5295,si,Sinhala,'අවස්ථාවෙන් ප්‍රයෝජන ගන්න ඕන දෙයක් ලබා ගන්න නම්. '
+5296,eng_Latn,English,Do I look like I wanted a fucking Labradoodle? !
+5296,si,Sinhala,මං හරියට ලැබ්‍රඩෝර් එකෙක් ඕනි වුන එකෙක් වගේද බොල?
+5297,eng_Latn,English,Are we tied in..
+5297,si,Sinhala,කොක්ක වැටුනද...
+5298,eng_Latn,English,- The same soul!
+5298,si,Sinhala,මගෙ ආත්මය!
+5299,eng_Latn,English,"Good, enjoy"
+5299,si,Sinhala,සතුටු වෙන්න.
+5300,eng_Latn,English,"Jesus, shut up about it!"
+5300,si,Sinhala,"ජේසුනී, කට වහනව!"
+5301,eng_Latn,English,They got my ear!
+5301,si,Sinhala,උන් මගේ කණට තිබ්බා!
+5302,eng_Latn,English,You're way better than he deserves.
+5302,si,Sinhala,එයාට උරුම තරමට වඩා ඔයා හොඳ වැඩියි.
+5303,eng_Latn,English,"Psst! Psst! Hey, hey, hey, little brother!"
+5303,si,Sinhala,"ඒයි, ඒයි, ඒයි, මල්ලි!"
+5304,eng_Latn,English,I'd do it again in a minute. Pardon me if I'm fresh out of bad feeling.
+5304,si,Sinhala,මම එක කරලා බය නැති කලාට මගෝන් සමාව ගන්න ඔනේ∙
+5305,eng_Latn,English,- Where are you going?
+5305,si,Sinhala,ඔයා කොහාටද යන්නේ?
+5306,eng_Latn,English,I don't want to lose her...
+5306,si,Sinhala,මට එයාවවත්...
+5307,eng_Latn,English,"And if you think that, then... you're right."
+5307,si,Sinhala,"තමුන් එහෙම හිතනව නම්,..."
+5308,eng_Latn,English,My parents split when I was 10.
+5308,si,Sinhala,මගේ දෙමව්පියෝ වෙන් උනා මට අවුරුදු 10දී
+5309,eng_Latn,English,"Sick Bay, report?"
+5309,si,Sinhala,"සික් බේ, කතා කරන්න?"
+5310,eng_Latn,English,"He didn't care MP also, he made him run in fear."
+5310,si,Sinhala,"එයාල මහඇමති ගැනවත් වදවුනේ නෑ, ඔහු එයාව බයේ පැන්නුවා."
+5311,eng_Latn,English,"""I still have to tell my brothers...about you?"""
+5311,si,Sinhala,"""මම මගෙ අයියලට ඔයා ගැන කියන්නත් ඕනෙ."""
+5312,eng_Latn,English,We came to bless the couple
+5312,si,Sinhala,යුවලට අශිර්වාද කරන්න අවෙ
+5313,eng_Latn,English,"I have a man, undercover, inside the bank already."
+5313,si,Sinhala,මගේ මිනිහෙක් බැංකුව ඇතුලේ ඉන්නවා..
+5314,eng_Latn,English,broke the family into two... I will bring you back Bhaiyya.
+5314,si,Sinhala,අම්මව බලාගන්න.
+5315,eng_Latn,English,I can't lose another person to your game.
+5315,si,Sinhala,මට බැහැ ඔයාගේ ක්‍රීඩාවට තවත් කෙනෙක්ව නැතිකරගන්න.
+5316,eng_Latn,English,..is not reciprocated towards us Muslims.
+5316,si,Sinhala,...මුස්ලිම් අපි කෙරෙහි නොලැබෙනකොට විතරයි.
+5317,eng_Latn,English,D..
+5317,si,Sinhala,- ඒ මොකද අනේ
+5318,eng_Latn,English,"Last month, two undercover LAPD cops got executed in their unmarked car by converging vehicles."
+5318,si,Sinhala,"පහුගිය මාසෙ, LAPD රහස් ඔත්තුකරුවො දෙන්නෙක් ඝාතනය වුනා ඔවුන්ගෙ වාහනවලදි තවත් වාහන වටකිරීමකින්."
+5319,eng_Latn,English,"Give me your weapons, turn around, and go home."
+5319,si,Sinhala,දැන් ඔය ආයුධ ටික මට දීලා ආයේ හැරිලා පලයල්ලා ගෙදර.
+5320,eng_Latn,English,"We'll do it, we'll do it. Save me, please. Save me!"
+5320,si,Sinhala,"අනේ, බේරගන්න, බේරගන්න, අපි ඒක කරන්නම්."
+5321,eng_Latn,English,"I'm Docomo customer, how can I win Airtel bumper draw?"
+5321,si,Sinhala,මං ඩොකොමො පාරිෙභ්ගිකයකේ. මට එයාටලෝ තෑග්ගක් ලැබනේනේ කොහොමද?
+5322,eng_Latn,English,I know.
+5322,si,Sinhala,මම දන්නවා.
+5323,eng_Latn,English,- Everything will be alright
+5323,si,Sinhala,- හැමදෙයක්ම හොඳින් වේවි
+5324,eng_Latn,English,Do I tell Beera you're ready for peace?
+5324,si,Sinhala,මම බිරාට කියන්නද සාමයට ඔබ කැමතියි කියලා?
+5325,eng_Latn,English,Will you come to the studio tomorrow?
+5325,si,Sinhala,ආ එන්නම් සර්. අනිවාර්යෙන් එන්නම්.
+5326,eng_Latn,English,Taught me how to ski.
+5326,si,Sinhala,මට හිමේ යන්න ඉගැන්නුවා .
+5327,eng_Latn,English,Gotcha! Keep down!
+5327,si,Sinhala,පලයන් යන්න.
+5328,eng_Latn,English,Which engine did you lose?
+5328,si,Sinhala,මොන එන්ජිමද නැති උනේ?
+5329,eng_Latn,English,Shashank Thakur?
+5329,si,Sinhala,ශේශාන් ටාකුර්?
+5330,eng_Latn,English,"Aw, you two just melt my stone-cold heart."
+5330,si,Sinhala,ඔයාලා දෙන්නා මගේ ගල් හිත මෙලෙක් කලා.
+5331,eng_Latn,English,You still got my back?
+5331,si,Sinhala,ඔයා තවම මගෝ පස්සනේඉන්නවද?
+5332,eng_Latn,English,- No.
+5332,si,Sinhala,- නෑ.
+5333,eng_Latn,English,Relax. I need to see the captain.
+5333,si,Sinhala,"සන්සුන් වෙන්න, මට කැප්ටන්ව බලන්න ඕනේ."
+5334,eng_Latn,English,I'll shoot you all
+5334,si,Sinhala,තොපි ඔක්කෝටම වෙඩි තියලා දානවා.
+5335,eng_Latn,English,Stopped
+5335,si,Sinhala,නවත්වන ලදි
+5336,eng_Latn,English,But even you have to admit; it's an ingenious method to meet a girl.
+5336,si,Sinhala,"ඒත් ඔයාටත් පිලිගන්න වෙනවා, කෙල්ලව හමුවේන තියෙන නොවිලිසිලිමත් කම, මේකට මදි නැහැ,"
+5337,eng_Latn,English,Spiritualism!
+5337,si,Sinhala,ආධ්‍යාත්මක බලයෙන්!
+5338,eng_Latn,English,He slipped into a coma. The doctors don't know how long he'll last.
+5338,si,Sinhala,එයා ටිකෙන් ටික කෝමා තත්වටෙ පත්වෙනවා∙ දොස්තරලා දන්නෑ එයා තව කොච්චර කල් ඉදීවිද කියලා∙
+5339,eng_Latn,English,/ Major?
+5339,si,Sinhala,/ මේජර්?
+5340,eng_Latn,English,"8, 15, 16, 23, 42."
+5340,si,Sinhala,"8,15,16,23,42∙"
+5341,eng_Latn,English,Did you pick up my sweaters?
+5341,si,Sinhala,ඔයා මගේ ජර්සිය ගත්තද?
+5342,eng_Latn,English,Yeah.
+5342,si,Sinhala,ඔව්.
+5343,eng_Latn,English,"Yeah. all right. You just gotta try, kiddo."
+5343,si,Sinhala,"මෙහෙමයි, ඔයා උත්සාහ කරන්නයි ඕනේ පැටියෝ."
+5344,eng_Latn,English,"They're already married, right?"
+5344,si,Sinhala,එයාලා බැදලා නේද?
+5345,eng_Latn,English,"Please, this is all I have."
+5345,si,Sinhala,මේක විතරමයි මං ගාව තියෙන්නේ
+5346,eng_Latn,English,This guy Nunez--
+5346,si,Sinhala,මේ නූනියෑස් කියන කෙනා--
+5347,eng_Latn,English,Come on. They're coming for us!
+5347,si,Sinhala,උන් එනව අපිව හොයාගෙන!
+5348,eng_Latn,English,"Listen, Sir!"
+5348,si,Sinhala,"අහන්න, සර්!"
+5349,eng_Latn,English,Yeah.
+5349,si,Sinhala,දන්නවා.
+5350,eng_Latn,English,"guys wait...you go, iwill find outwhere the girl is..."
+5350,si,Sinhala,"මාම්, සීයා ඔයාට කතා කරනවා. මම කෙල්ල ඉන්න තැන හොයාගන්නම්."
+5351,eng_Latn,English,We're dead. It's coming down.
+5351,si,Sinhala,අපි හැමෝම විනාශ වෙන්නයි යන්නේ.
+5352,eng_Latn,English,I don't know what you're sayin'.
+5352,si,Sinhala,මම දන්නේ නැහැ ඔයා මොනවා කියනවද කියලා.
+5353,eng_Latn,English,- Eighteen.
+5353,si,Sinhala,- දහඅටයි
+5354,eng_Latn,English,"""Life is.. ..flowing silently."""
+5354,si,Sinhala,'♫ මේ ජිවිතය මොකක් හරි අගවනවා වගේ ♫
+5355,eng_Latn,English,"- Yes, sir."
+5355,si,Sinhala,"- හොදයි, සර්."
+5356,eng_Latn,English,Maybe I don't care if you shoot me or not.
+5356,si,Sinhala,සමහරවිට මට තමුසේ වෙඩි තිබ්බත් නැතත් ගානක් නැතුව ඇති.
+5357,eng_Latn,English,It's easy to know what her intentions are looking at the way she's dressed.
+5357,si,Sinhala,ඇඳුම් වලින්ම කියන්න පුළුවන් හිතේ තියෙන දේවල් ගැන.
+5358,eng_Latn,English,"- Yeah, I'll..."
+5358,si,Sinhala,"- ඔව්, මම..."
+5359,eng_Latn,English,"Trust me, they're indestructible. Ayah, ayah, ah-ah-ah! - Norm:"
+5359,si,Sinhala,"මාව විශ්වාස කරන්න, එයාලා විනාශකල නොහැකි අය. එයා මොකක්ද කරන්නෙ?"
+5360,eng_Latn,English,eight..nine..
+5360,si,Sinhala,8... 9..
+5361,eng_Latn,English,"The same people who, even as we speak, are sitting outside Hugo's mental institution."
+5361,si,Sinhala,"අපි කතාකරපු අයම තමයි, හියුගෝ ඉන්න මානසික පාසල ලග ඉදලා තියනේනෙ"
+5362,eng_Latn,English,Please introduce me to him. Please.
+5362,si,Sinhala,"අනේ මට එයාව මුණගස්සවන්න, ප්ලීස්."
+5363,eng_Latn,English,Send me a driver who doesn't know me.
+5363,si,Sinhala,පිටිපස්සේ සීට් එක යට හොද පිහියක් තියෙන්න ඕනේ.
+5364,eng_Latn,English,He told me that he was my mom's handler and that-th-that
+5364,si,Sinhala,එයා කිව්වා එයා මගේ අම්මගේ හසුරුවන්නා කියලා.. ඒවගේම මම මම ..
+5365,eng_Latn,English,It's the Nanotech.
+5365,si,Sinhala,නැනෝතාක්ෂණය.
+5366,eng_Latn,English,- There is no saving Division.
+5366,si,Sinhala,- ඩිවිශන් බේරගන්න විදියක් නෑ.
+5367,eng_Latn,English,where you have been?
+5367,si,Sinhala,ඔබ කොහේ ඉදලද ආවේ?
+5368,eng_Latn,English,Where did this monkey come from?
+5368,si,Sinhala,මේ වඳුරා කොහෙන්ද කඩා පාත් වුනේ?
+5369,eng_Latn,English,"Yes. Sir, the attack is imminent."
+5369,si,Sinhala,"ඔව් සර්, ප්‍රහාරයට බොහොම ලගයි."
+5370,eng_Latn,English,They can't bear it if they come to know of this. Just cool down Rahul.
+5370,si,Sinhala,ඇහුරුනොත් ඉවසන්නේ නැහැ අක්කා සංසුන්වෙන්න රාහුල් ඉන්න
+5371,eng_Latn,English,"This thing with-with Sherlock, there are steps."
+5371,si,Sinhala,මට ෂර්ලොක් එක්ක තියෙන්නේ.. ඇත්තම තව පියවර තුනයි
+5372,eng_Latn,English,Your mother did this?
+5372,si,Sinhala,ඔයාගෙ අම්ම මේක කලාද?
+5373,eng_Latn,English,My name is Benjamin Linus. I believe you're looking for me.
+5373,si,Sinhala,මගේ නම බෙන්ජමින් ලයිනස් මම හිතන්නේ ඔයා හොයන්නේ මාව
+5374,eng_Latn,English,Send Kim in.
+5374,si,Sinhala,කිම් ට එන්න කියන්න.
+5375,eng_Latn,English,..you are trying to cover up your worries.
+5375,si,Sinhala,..ඔයා ඒ කරදර හංඟන් ඉන්න උත්සහා කරනවා.
+5376,eng_Latn,English,Bring them in the barn now.
+5376,si,Sinhala,ඔවුන්ව දැන්ම ගබඩාවට ගේන්න.
+5377,eng_Latn,English,is it a cricket match?
+5377,si,Sinhala,ක්‍රිකට් තරඟයක්ද?
+5378,eng_Latn,English,"""When you give, you get, this is the season of love."""
+5378,si,Sinhala,"""දුන්නට පස්සෙයි ඔයාට ලැබෙන්නේ, මේ ආදර සමයයි."""
+5379,eng_Latn,English,"eBay, dude."
+5379,si,Sinhala,eBay එකෙන් මචෝ.
+5380,eng_Latn,English,"""Top to bottom, I am with you.."""
+5380,si,Sinhala,"""ඉහළ සිට පහළට යනකම්ම මා සිටින්නේ ඔබත් සමඟයි!"""
+5381,eng_Latn,English,It just needs lighting up a tad.
+5381,si,Sinhala,ඒකට පොඩි එලියකිරීමක් ඕනි.
+5382,eng_Latn,English,"That a certain level of attachment, familiar places, familiar people might help me elbow out these certain delusions that I have."
+5382,si,Sinhala,"ඒක බැඳීමෙහි එක මට්ටමක්, සමීප ස්ථාන, සමීප මිනිස්සු මට උදව් කරාවි..."
+5383,eng_Latn,English,Go.
+5383,si,Sinhala,යන්න.
+5384,eng_Latn,English,Add Remote
+5384,si,Sinhala,ඉවත් කරන්න
+5385,eng_Latn,English,"Oh, I would so."
+5385,si,Sinhala,"ඔහ්හ්, මම එහෙමනම් ඇයි නැත්තේ?"
+5386,eng_Latn,English,I'm sorry I was so hard on you during the interrogation. Because I had to make it look good.
+5386,si,Sinhala,"මයික්, මට සමාවෙන්න මම ඔයාට දරුණු උනා ඔයාගෙ ප්‍රශ්නයේදී."
+5387,eng_Latn,English,"Sing is over there, Master."
+5387,si,Sinhala,"Sing අර පැත්තේ, මාස්ටර්."
+5388,eng_Latn,English,And you sleep with another woman!
+5388,si,Sinhala,ඒත් නිදියන්නේ තවත් ගෑනියෙක් එකක!
+5389,eng_Latn,English,Ok. I will also love you
+5389,si,Sinhala,හරි මමත් ඔයාට ආදරේ කරන්නම්
+5390,eng_Latn,English,For seeing the therapist... I know it can't be easy for you... but I think it's really helping you.
+5390,si,Sinhala,ඩොක්ටර් පන්ජාබී ලඟට දිගටම යන්න. මම දන්නව මේක ඔයාට ලේසි නෑ. ඒත් ඔයාගෙ ලොකු වෙනසක් වෙලා.
+5391,eng_Latn,English,Unless of course he's ill is he?
+5391,si,Sinhala,එයා තාමත් ඒ විදියෙම න නොවුනොත් ඇරෙන්න.
+5392,eng_Latn,English,You were born and brought up in London..
+5392,si,Sinhala,ඔයා ඉපදිලා හැදුනේ වැඩුනේ ලන්ඩන් වලදි..
+5393,eng_Latn,English,"I don't know what kind of spell they've put on you, but I won't let you go."
+5393,si,Sinhala,"මම දන්නෙ නැහැ මොන විදිහෙ මන්ත්‍රයක් ඔවුන් ඔයාට කරලද කියලා, නමුත් මට බැහැ ඔයාට යන්න දෙන්න."
+5394,eng_Latn,English,Deepa...
+5394,si,Sinhala,මම ඇමතුක් දුන්නා අරගන්නේ නැහැ. ඔයා ඇමතුම් ගන්නෙත් නැහැ.
+5395,eng_Latn,English,"That's right. Go on, sleep."
+5395,si,Sinhala,හා හා නිදාගන්න.
+5396,eng_Latn,English,Yeah.
+5396,si,Sinhala,ඔව්
+5397,eng_Latn,English,Twenty kilometres to beacon.
+5397,si,Sinhala,අදළ ානයට කි 20යි
+5398,eng_Latn,English,To rule 56 villages is not child's play Yes
+5398,si,Sinhala,"‍ගම්‍ 56ක්‍ ‍පා‍ල‍න‍ය ‍ක‍ර‍න‍වා ‍කි‍යන්‍‍නේ, ‍නි‍කන්‍‍ද?"
+5399,eng_Latn,English,That scoundrel accepted my resignation..
+5399,si,Sinhala,ඒ පාහරයා මගේ ඉල්ලා අස්වීම බාරගත්තා..
+5400,eng_Latn,English,Milton
+5400,ky,Kyrgyz,"МилтонCity in Florida, United States"
+5401,eng_Latn,English,kps
+5401,ky,Kyrgyz,өткөрүлдү
+5402,eng_Latn,English,Deleting now…
+5402,ky,Kyrgyz,Азыр өчүрүлүүдө…
+5403,eng_Latn,English,Search for Files...
+5403,ky,Kyrgyz,Файл издөө...
+5404,eng_Latn,English,Station
+5404,ky,Kyrgyz,Жаңы радиостанция
+5405,eng_Latn,English,paper size
+5405,ky,Kyrgyz,paper size
+5406,eng_Latn,English,", {0}"
+5406,ky,Kyrgyz,{0} токтотуу
+5407,eng_Latn,English,DVD Preferences
+5407,ky,Kyrgyz,Ырастоолор
+5408,eng_Latn,English,License URL:
+5408,ky,Kyrgyz,лицензия
+5409,eng_Latn,English,Sort Track Artist:
+5409,ky,Kyrgyz,_Аткаруучу:
+5410,eng_Latn,English,Playing Track
+5410,ky,Kyrgyz,Тыюу салуу
+5411,eng_Latn,English,Isoka
+5411,ky,Kyrgyz,Isoka
+5412,eng_Latn,English,"An unknown error occurred while trying to open ""%s""."
+5412,ky,Kyrgyz,"""%s"" ачуу учурунда белгисиз ката пайда болду."
+5413,eng_Latn,English,%s is the wrong size (%s != %s + %s)
+5413,ky,Kyrgyz,%s көлөмү туура эмес (%s != %s + %s)
+5414,eng_Latn,English,Created on %1$s
+5414,ky,Kyrgyz,%1$s күнү жаратылган
+5415,eng_Latn,English,Show or hide the artist/album browser
+5415,ky,Kyrgyz,Кичи-браузерди көрсөтүү же бекитүү
+5416,eng_Latn,English,Open '%s'
+5416,ky,Kyrgyz,'%s' ачуу
+5417,eng_Latn,English,Custom
+5417,ky,Kyrgyz,Башка:
+5418,eng_Latn,English,Create a new path...
+5418,ky,Kyrgyz,vectors-action
+5419,eng_Latn,English,Fish Preferences
+5419,ky,Kyrgyz,Балыктын ырастоолору
+5420,eng_Latn,English,UI translation
+5420,ky,Kyrgyz,Интерфейсти которуу
+5421,eng_Latn,English,File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.
+5421,ky,Kyrgyz,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.
+5422,eng_Latn,English,Removing track {0} of {1}
+5422,ky,Kyrgyz,Элементтер импорттолууда {0} из {1}
+5423,eng_Latn,English,Delete channel
+5423,ky,Kyrgyz,Каналды өчүрүүundo-type
+5424,eng_Latn,English,Device Properties
+5424,ky,Kyrgyz,Аспаптардын касиеттери
+5425,eng_Latn,English,About the GNOME Desktop
+5425,ky,Kyrgyz,GNOME чөйрөсү жөнүндө
+5426,eng_Latn,English,Authorize for Last.fm
+5426,ky,Kyrgyz,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу
+5427,eng_Latn,English,_Rating:
+5427,ky,Kyrgyz,_Рейтинг:
+5428,eng_Latn,English,Nagagami
+5428,ky,Kyrgyz,Nagagami
+5429,eng_Latn,English,Moline-Quad Cities
+5429,ky,Kyrgyz,Moline-Quad Cities
+5430,eng_Latn,English,Starting and Stopping
+5430,ky,Kyrgyz,Иштетүү жана токтотуу:
+5431,eng_Latn,English,pixel
+5431,ky,Kyrgyz,unit-plural
+5432,eng_Latn,English,"backup before removal, choose version CONTROL"
+5432,ky,Kyrgyz,"өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда"
+5433,eng_Latn,English,Properties
+5433,ky,Kyrgyz,Касиети
+5434,eng_Latn,English,Viedma
+5434,ky,Kyrgyz,ViedmaWienVienne
+5435,eng_Latn,English,Christiansted
+5435,ky,Kyrgyz,Christiansted
+5436,eng_Latn,English,Set all licenses to this value
+5436,ky,Kyrgyz,Бул жанрды баардык жолчолорго коюу
+5437,eng_Latn,English,CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)
+5437,ky,Kyrgyz,%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет)
+5438,eng_Latn,English,"background, style"
+5438,ky,Kyrgyz,"Толтурууbackground, style"
+5439,eng_Latn,English,Number
+5439,ky,Kyrgyz,Жолчонун номери
+5440,eng_Latn,English,_Reset to 0°
+5440,ky,Kyrgyz,view-action
+5441,eng_Latn,English,Could not open stream or playlist
+5441,ky,Kyrgyz,Агымды же ойномо тизмесин ачуу мүмкүн эмес
+5442,eng_Latn,English,Unrecognized launch option: %d
+5442,ky,Kyrgyz,Туура эмес иштетүү параметри: %d
+5443,eng_Latn,English,Play this song
+5443,ky,Kyrgyz,Ойнотуучу тизме
+5444,eng_Latn,English,Science
+5444,ky,Kyrgyz,Илим
+5445,eng_Latn,English,"Downloads, past week:"
+5445,ky,Kyrgyz,Жүктөө убактылуу токтоду
+5446,eng_Latn,English,Ratio: %s
+5446,ky,Kyrgyz,Рейтинги: %s
+5447,eng_Latn,English,Error
+5447,ky,Kyrgyz,Ката
+5448,eng_Latn,English,_View
+5448,ky,Kyrgyz,_Көрүнүш
+5449,eng_Latn,English,No new songs available for {0}.
+5449,ky,Kyrgyz,{0} үчүн жаңы ырлар табылган жок
+5450,eng_Latn,English,Oregon Inlet
+5450,ky,Kyrgyz,Oregon Inlet
+5451,eng_Latn,English,Kananga
+5451,ky,Kyrgyz,Kananga
+5452,eng_Latn,English,_Take a photo
+5452,ky,Kyrgyz,_Сүрөткө тартуу
+5453,eng_Latn,English,Charpicker Applet Factory
+5453,ky,Kyrgyz,Charpicker Апплет Фабрикасы
+5454,eng_Latn,English,light-and-shadow filter
+5454,ky,Kyrgyz,light-and-shadow чыпкасы
+5455,eng_Latn,English,Create a new smart playlist
+5455,ky,Kyrgyz,Жаңы ыңгайлуу ойнотмо тизмесин түзүү
+5456,eng_Latn,English,L_atitude:
+5456,ky,Kyrgyz,_Жазылык алкак:
+5457,eng_Latn,English,Remove From Play Queue
+5457,ky,Kyrgyz,Ойнотмо катардан жоготуу
+5458,eng_Latn,English,paper size
+5458,ky,Kyrgyz,paper size
+5459,eng_Latn,English,Bafia
+5459,ky,Kyrgyz,Бафия
+5460,eng_Latn,English,Recommended Artists
+5460,ky,Kyrgyz,Сунуш кылынган радиолор
+5461,eng_Latn,English,Could not write CD
+5461,ky,Kyrgyz,Дискке жазуу болбой калды
+5462,eng_Latn,English,Password hint
+5462,ky,Kyrgyz,Password hint
+5463,eng_Latn,English,_Reload
+5463,ky,Kyrgyz,_Кайра жүктө
+5464,eng_Latn,English,"Generated keyword/value pair is too long (keyword=%s, length=%s)"
+5464,ky,Kyrgyz,"Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)"
+5465,eng_Latn,English,Saving Metadata to File
+5465,ky,Kyrgyz,_Метаберилиштерди файлга жазуу
+5466,eng_Latn,English,Aeroparque
+5466,ky,Kyrgyz,Aeroparque
+5467,eng_Latn,English,Unknown
+5467,ky,Kyrgyz,Белгисиз
+5468,eng_Latn,English,Shutter
+5468,ky,Kyrgyz,Жапкыч
+5469,eng_Latn,English,About the GNOME Desktop
+5469,ky,Kyrgyz,GNOME чөйрөсү жөнүндө
+5470,eng_Latn,English,_View
+5470,ky,Kyrgyz,_Түр
+5471,eng_Latn,English,%a %l:%M %p
+5471,ky,Kyrgyz,%a %l:%M %p
+5472,eng_Latn,English,Authentication Required
+5472,ky,Kyrgyz,Аутентификация керек
+5473,eng_Latn,English,Important tasks are running
+5473,ky,Kyrgyz,Маанилүү иштер аткарылууда
+5474,eng_Latn,English,force NAME as group for added files
+5474,ky,Kyrgyz,кошулган файлдардын группасын АТЫ деп кой
+5475,eng_Latn,English,paper size
+5475,ky,Kyrgyz,paper size
+5476,eng_Latn,English,Notify user when the battery is low.
+5476,ky,Kyrgyz,Заряд азайган кезде колдонуучуларды билдирүү
+5477,eng_Latn,English,There was an error launching the keyboard preferences dialog: %s
+5477,ky,Kyrgyz,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s
+5478,eng_Latn,English,Convert the image to grayscale
+5478,ky,Kyrgyz,image-convert-action
+5479,eng_Latn,English,Albu_m Title:
+5479,ky,Kyrgyz,Альбом боюнча
+5480,eng_Latn,English,Failed to get new songs for {0}.
+5480,ky,Kyrgyz,{0} үчүн жаңы ырларды алуу мүмкүн эмес.
+5481,eng_Latn,English,unquote filenames read with -T (default)
+5481,ky,Kyrgyz,-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат)
+5482,eng_Latn,English,"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object""."
+5482,ky,Kyrgyz,"Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object""."
+5483,eng_Latn,English,Set all sort album artists to this value
+5483,ky,Kyrgyz,Баардык жолчолорго бул аткаруучунун атын коюу
+5484,eng_Latn,English,Folders
+5484,ky,Kyrgyz,Каталогдор
+5485,eng_Latn,English,_Bookmarks
+5485,ky,Kyrgyz,_Китеп белгилер
+5486,eng_Latn,English,Edit Active Palette
+5486,ky,Kyrgyz,palette-editor-action
+5487,eng_Latn,English,_About
+5487,ky,Kyrgyz,_Бул жөнүндө
+5488,eng_Latn,English,General
+5488,ky,Kyrgyz,Жалпы
+5489,eng_Latn,English,Install Failed
+5489,ky,Kyrgyz,Орнотуу ишке ашпады
+5490,eng_Latn,English,Separator
+5490,ky,Kyrgyz,Бөлгүч
+5491,eng_Latn,English,Location:
+5491,ky,Kyrgyz,Жайгашкан жери:
+5492,eng_Latn,English,Delete Playlist
+5492,ky,Kyrgyz,Ойнотуу тизмесин алып таштоо
+5493,eng_Latn,English,Artigas
+5493,ky,Kyrgyz,Artigas
+5494,eng_Latn,English,Point Pleasant
+5494,ky,Kyrgyz,Point Pleasant
+5495,eng_Latn,English,License URL:
+5495,ky,Kyrgyz,лицензия
+5496,eng_Latn,English,Notify user when the battery is low.
+5496,ky,Kyrgyz,Заряд азайган кезде колдонуучуларды билдирүү
+5497,eng_Latn,English,"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially."
+5497,ky,Kyrgyz,"Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт."
+5498,eng_Latn,English,Password hint
+5498,ky,Kyrgyz,Password hint
+5499,eng_Latn,English,Import CD
+5499,ky,Kyrgyz,Дискти импорттоо
+5500,eng_Latn,English,Create Launcher
+5500,ky,Kyrgyz,Иштетүү баскычын түзүү
+5501,eng_Latn,English,Jakutsk
+5501,ky,Kyrgyz,Якутск
+5502,eng_Latn,English,Network
+5502,ky,Kyrgyz,Тармак
+5503,eng_Latn,English,Importing {0} of {1}
+5503,ky,Kyrgyz,Элементтер импорттолууда {0} из {1}
+5504,eng_Latn,English,Create a new smart playlist
+5504,ky,Kyrgyz,Жаңы ыңгайлуу ойнотмо тизмесин түзүү
+5505,eng_Latn,English,Sorting
+5505,ky,Kyrgyz,Иреттөө
+5506,eng_Latn,English,keyboard label
+5506,ky,Kyrgyz,keyboard label
+5507,eng_Latn,English,Clear on Quit
+5507,ky,Kyrgyz,Жабууда тазалоо
+5508,eng_Latn,English,Programming
+5508,ky,Kyrgyz,Программалоо
+5509,eng_Latn,English,_Automatically import audio CDs when inserted
+5509,ky,Kyrgyz,_Салынган үңдүк дисктерди автоматтык түрдө импорттоо
+5510,eng_Latn,English,Port is closed
+5510,ky,Kyrgyz,Порт жабык
+5511,eng_Latn,English,"%a %b %e, %R"
+5511,ky,Kyrgyz,"%a %b %e, %R"
+5512,eng_Latn,English,Guangdong
+5512,ky,Kyrgyz,Guangdong
+5513,eng_Latn,English,_Show Image Selection
+5513,ky,Kyrgyz,dock-action
+5514,eng_Latn,English,Shutter sound
+5514,ky,Kyrgyz,Жапкычтын үнү
+5515,eng_Latn,English,Add Alpha C_hannel
+5515,ky,Kyrgyz,layers-action
+5516,eng_Latn,English,Create a new channel
+5516,ky,Kyrgyz,Жаңы каналды жаратууchannels-action
+5517,eng_Latn,English,_None (use system theme)
+5517,ky,Kyrgyz,_Жок (системалык тема колдонулат)
+5518,eng_Latn,English,Reorder Layer
+5518,ky,Kyrgyz,undo-type
+5519,eng_Latn,English,_Image
+5519,ky,Kyrgyz,image-action
+5520,eng_Latn,English,Akan
+5520,ky,Kyrgyz,Акан
+5521,eng_Latn,English,Description
+5521,ky,Kyrgyz,Баяндамаtab-style
+5522,eng_Latn,English,Sound & Video
+5522,ky,Kyrgyz,Аудио жана видео
+5523,eng_Latn,English,Contributor:
+5523,ky,Kyrgyz,Катышуучулар
+5524,eng_Latn,English,Cherry CyMotion Master XPress
+5524,ky,Kyrgyz,Cherry CyMotion Master XPress
+5525,eng_Latn,English,No Bookmark Set
+5525,ky,Kyrgyz,_Эсбелгини жоготуу
+5526,eng_Latn,English,Track Editor
+5526,ky,Kyrgyz,Аталыш
+5527,eng_Latn,English,Constant Bitrate
+5527,ky,Kyrgyz,Агымдын туруктуу ылдамдыгы
+5528,eng_Latn,English,paper size
+5528,ky,Kyrgyz,paper size
+5529,eng_Latn,English,paper size
+5529,ky,Kyrgyz,paper size
+5530,eng_Latn,English,Keywords:
+5530,ky,Kyrgyz,Ачкыч сөздөр:
+5531,eng_Latn,English,Blue River
+5531,ky,Kyrgyz,Blue River
+5532,eng_Latn,English,There was an error launching the keyboard preferences dialog: %s
+5532,ky,Kyrgyz,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s
+5533,eng_Latn,English,Move windows to current workspace when unminimized
+5533,ky,Kyrgyz,Терезелерди калыбына келтирүүдө аны учурдагы иш орунуна жылдыруу
+5534,eng_Latn,English,_Rating:
+5534,ky,Kyrgyz,_Рейтинг:
+5535,eng_Latn,English,Desktop entries for MESS ROMs
+5535,ky,Kyrgyz,Элементы рабочего стола для MESS ROM
+5536,eng_Latn,English,Mute
+5536,ky,Kyrgyz,Үндү өчүрүү
+5537,eng_Latn,English,Published
+5537,ky,Kyrgyz,Жарыясы
+5538,eng_Latn,English,Log in to Last.fm
+5538,ky,Kyrgyz,Last.fm сайтына кирүү
+5539,eng_Latn,English,%s pt
+5539,ky,Kyrgyz,unit-symbols
+5540,eng_Latn,English,marker
+5540,ky,Kyrgyz,marker
+5541,eng_Latn,English,Speed
+5541,ky,Kyrgyz,Ылдамдык
+5542,eng_Latn,English,Kulusuk Lufthavn
+5542,ky,Kyrgyz,Kulusuk Lufthavn
+5543,eng_Latn,English,Appearance
+5543,ky,Kyrgyz,Сырткы көрүнүшү
+5544,eng_Latn,English,Education
+5544,ky,Kyrgyz,Билим
+5545,eng_Latn,English,Surabaya
+5545,ky,Kyrgyz,Surabaya
+5546,eng_Latn,English,Password hint
+5546,ky,Kyrgyz,Password hint
+5547,eng_Latn,English,Path to Sele_ction
+5547,ky,Kyrgyz,vectors-action
+5548,eng_Latn,English,Play this song
+5548,ky,Kyrgyz,Ойнотуучу тизме
+5549,eng_Latn,English,"If true, the x and x_right keys are ignored and the panel is placed at the center of the x-axis of the screen. If the panel is resized it will remain at that position - i.e. the panel will grow on both sides. If false, the x and x_right keys specify the location of the panel."
+5549,ky,Kyrgyz,"Эгер бул ачкыч орнотулса, анда X координатасы эске алынбайт да, панель экрандын X огу боюнча борборлоштурулат. Эгер панель өлчөмүн өзгөртсө, анда ал өз орунунда калат (б.а. эки тарабына тең созулат). Эгер бал ачкыч орнотулбаса, X координатасы эске алынып, ал панелдин жайгашуу орунун аныктайт."
+5550,eng_Latn,English,"%s has no use what-so-ever. It only takes up disk space and compilation time, and if loaded it also takes up precious panel space and memory. Anybody found using it should be promptly sent for a psychiatric evaluation."
+5550,ky,Kyrgyz,"""%s аттуу балык"" - эч пайдасы жок апплет. Ал дискте орун ээлеп, компиляция убакытын созот. Жүктөлгөн учурда ал панелде жана эсте кайсы бир орунду ээлейт. Бул апплеттин пайдасын көргөн кишини психиатрдык текшерүүгө жөнөтүү керек."
+5551,eng_Latn,English,Canceling Downloads
+5551,ky,Kyrgyz,Жүктөөлөр токтотулду
+5552,eng_Latn,English,Search all songs of this album
+5552,ky,Kyrgyz,Учурдагы альбомдон баардык ырларды издөө
+5553,eng_Latn,English,Failed to load %s: %s
+5553,ky,Kyrgyz,"""%s"" жүктөлбөдү: %s"
+5554,eng_Latn,English,http://last.fm/music/{0}/_/{1}
+5554,ky,Kyrgyz,http://last.fm/music/{0}/_/{1}
+5555,eng_Latn,English,_Monitor profile:
+5555,ky,Kyrgyz,_Монитор профили:
+5556,eng_Latn,English,Loading playlists
+5556,ky,Kyrgyz,Ойнотуу тизмесин жүктөө
+5557,eng_Latn,English,paper size
+5557,ky,Kyrgyz,paper size
+5558,eng_Latn,English,Saturation
+5558,ky,Kyrgyz,Каныккандык
+5559,eng_Latn,English,Browser on Left
+5559,ky,Kyrgyz,"Кичи-браузер, сол жакта"
+5560,eng_Latn,English,Archive octal value %.*s is out of %s range; assuming two's complement
+5560,ky,Kyrgyz,Архивдин сегиздик системадагы мааниси болгон %.*s %s диапазонунун тышында; экилик системадагы терси алынды
+5561,eng_Latn,English,Word _size:
+5561,ky,Kyrgyz,Сөз _өлчөмү:
+5562,eng_Latn,English,General
+5562,ky,Kyrgyz,Жалпы
+5563,eng_Latn,English,Action name
+5563,ky,Kyrgyz,Action name
+5564,eng_Latn,English,Convert the image to indexed colors
+5564,ky,Kyrgyz,image-action
+5565,eng_Latn,English,Crop to C_ontent
+5565,ky,Kyrgyz,layers-action
+5566,eng_Latn,English,_Reload
+5566,ky,Kyrgyz,_Кайра жүктө
+5567,eng_Latn,English,Connect to another display
+5567,ky,Kyrgyz,view-action
+5568,eng_Latn,English,"GNOME's greatest strength is our strong community. Virtually anyone, with or without coding skills, can contribute to making GNOME better."
+5568,ky,Kyrgyz,"GNOME чөйрөсүнүн артыкчылык жагы анын күчтүү колдонуучулар коомчулугунда. Ар бир адам программалоодо тажрыйбасы бар болсо да, тажрыйбасы жок болсо да, чөйрөнү жакшыртууга өз салымын кошо алат."
+5569,eng_Latn,English,Search for podcasts
+5569,ky,Kyrgyz,Баардык подкасттарды жаңыртуу
+5570,eng_Latn,English,Time
+5570,ky,Kyrgyz,Убакыт
+5571,eng_Latn,English,Orientation
+5571,ky,Kyrgyz,ЛандшафтOrientation
+5572,eng_Latn,English,"You may not overwrite the existing file, because you do not have sufficient access rights."
+5572,ky,Kyrgyz,"Сиз эски файлдын үстүнө жаза албайсыз, себеби сизде жетишерлик укук жок."
+5573,eng_Latn,English,Firefox web browser
+5573,ky,Kyrgyz,Firefox веб-браузери
+5574,eng_Latn,English,Browser on Left
+5574,ky,Kyrgyz,"Кичи-браузер, сол жакта"
+5575,eng_Latn,English,Wi-Fi/Ethernet security
+5575,ky,Kyrgyz,Wi-Fi/Ethernet security
+5576,eng_Latn,English,Select album cover image
+5576,ky,Kyrgyz,Альбомдун бетин тандаңыз
+5577,eng_Latn,English,Acer AirKey V
+5577,ky,Kyrgyz,Acer AirKey V
+5578,eng_Latn,English,None
+5578,ky,Kyrgyz,Жок
+5579,eng_Latn,English,Unknown
+5579,ky,Kyrgyz,Белгисиз
+5580,eng_Latn,English,Password hint
+5580,ky,Kyrgyz,Password hint
+5581,eng_Latn,English,Name
+5581,ky,Kyrgyz,Аталышы
+5582,eng_Latn,English,This key specifies the number of seconds each frame will be displayed.
+5582,ky,Kyrgyz,Бул ачкыч ар-бир кадрдын канча секунд чагылдырыларын аныктайт.
+5583,eng_Latn,English,paper size
+5583,ky,Kyrgyz,paper size
+5584,eng_Latn,English,_About
+5584,ky,Kyrgyz,_Бул жөнүндө
+5585,eng_Latn,English,Automatically hide panel into corner
+5585,ky,Kyrgyz,Панелди автоматтык түрдө бурчка жашыруу
+5586,eng_Latn,English,Fish Preferences
+5586,ky,Kyrgyz,"""Балык"" ырастоолору"
+5587,eng_Latn,English,_Up
+5587,ky,Kyrgyz,_Жогоруга
+5588,eng_Latn,English,_About
+5588,ky,Kyrgyz,_Апплет жөнүндө
+5589,eng_Latn,English,_Quit
+5589,ky,Kyrgyz,_Чыгуу
+5590,eng_Latn,English,High Level
+5590,ky,Kyrgyz,"High LevelCity in Alberta, Canada"
+5591,eng_Latn,English,Export a playlist
+5591,ky,Kyrgyz,Ойнотмо тизмени экспорттоо
+5592,eng_Latn,English,Removing track {0} of {1}
+5592,ky,Kyrgyz,Элементтер импорттолууда {0} из {1}
+5593,eng_Latn,English,"Write to file NAME, instead of standard output"
+5593,ky,Kyrgyz,"Стандарт чыгарууга жазбай, АТЫ деген файлга жаз"
+5594,eng_Latn,English,JPEG image files
+5594,ky,Kyrgyz,JPEG графикалык файлдары
+5595,eng_Latn,English,"background, style"
+5595,ky,Kyrgyz,"Мозаикаbackground, style"
+5596,eng_Latn,English,Artist
+5596,ky,Kyrgyz,Аткаруучуartist
+5597,eng_Latn,English,Clock
+5597,ky,Kyrgyz,Саат
+5598,eng_Latn,English,Darwin
+5598,ky,Kyrgyz,Дарвин
+5599,eng_Latn,English,_Match
+5599,ky,Kyrgyz,_Туура келет
