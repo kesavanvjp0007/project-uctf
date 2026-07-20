@@ -1,0 +1,61 @@
+sentence_id,mean_similarity,category,english_text
+31,0.9458500000000001,grammar_dependent,She gave him a gift yesterday.
+39,0.9312999999999999,grammar_dependent,"Despite the rain, we continued walking."
+49,0.9279333333333333,emotional_nuance,He laughed to hide his fear.
+33,0.9239333333333333,grammar_dependent,"If it rains tomorrow, I will stay home."
+48,0.9232999999999999,emotional_nuance,The joy of reunion after long separation.
+45,0.9207000000000001,emotional_nuance,He felt a quiet pride in his work.
+38,0.9206500000000001,grammar_dependent,"The faster you work, the sooner you finish."
+41,0.9198,emotional_nuance,I feel a deep sense of loneliness tonight.
+32,0.9170333333333334,grammar_dependent,The books were read by the students.
+50,0.9149166666666666,emotional_nuance,The silence between them was comfortable.
+37,0.9130333333333334,grammar_dependent,Neither she nor he was present.
+3,0.9119833333333333,factual,Light travels faster than sound.
+10,0.9093833333333333,factual,Sound cannot travel through a vacuum.
+20,0.9089,mathematical,Negative numbers are less than zero.
+60,0.9066166666666667,named_entity,The Olympics were first held in ancient Greece.
+35,0.9044666666666666,grammar_dependent,The red car belongs to my neighbor.
+47,0.9044,emotional_nuance,She carried the weight of unspoken words.
+2,0.9033333333333333,factual,The Earth orbits the Sun.
+5,0.9021,factual,The heart pumps blood through the body.
+12,0.902,mathematical,A triangle has three sides.
+42,0.9004666666666666,emotional_nuance,She was overwhelmed with grief.
+4,0.9002,factual,Humans need oxygen to survive.
+34,0.8994,grammar_dependent,He has been working since morning.
+1,0.8984833333333334,factual,Water boils at one hundred degrees Celsius.
+43,0.8984,emotional_nuance,The unexpected kindness moved him to tears.
+6,0.8970333333333333,factual,Plants produce oxygen through photosynthesis.
+36,0.8964333333333333,grammar_dependent,I would have gone if I had known.
+40,0.89575,grammar_dependent,It was not until noon that he arrived.
+9,0.8924,factual,Gravity pulls objects toward the Earth.
+30,0.8920333333333333,cultural_idiom,He kicked the bucket last year.
+11,0.89125,mathematical,Two plus two equals four.
+58,0.8899166666666667,named_entity,The Pacific Ocean is the largest ocean.
+52,0.8889166666666667,named_entity,The Amazon River flows through Brazil.
+18,0.8865333333333334,mathematical,Zero multiplied by any number is zero.
+57,0.8854333333333333,named_entity,Gandhi led India to independence.
+46,0.8825666666666666,emotional_nuance,The nostalgia for home never fades.
+7,0.8800500000000001,factual,The moon causes ocean tides.
+15,0.87785,mathematical,An even number is divisible by two.
+53,0.8777499999999999,named_entity,The Eiffel Tower is located in Paris.
+29,0.8776333333333333,cultural_idiom,She burned the midnight oil to finish.
+44,0.8762833333333333,emotional_nuance,There is a bittersweet feeling about leaving.
+25,0.8761833333333334,cultural_idiom,The ball is in your court now.
+16,0.8754166666666666,mathematical,The sum of angles in a triangle is one hundred eighty degrees.
+24,0.8734999999999999,cultural_idiom,She hit the nail on the head.
+8,0.8731166666666667,factual,Ice melts when heated above zero degrees.
+51,0.8725666666666667,named_entity,Albert Einstein was born in Germany.
+55,0.87105,named_entity,Shakespeare wrote Hamlet.
+19,0.8682666666666666,mathematical,A circle has three hundred sixty degrees.
+13,0.8671833333333333,mathematical,The square root of nine is three.
+54,0.8628333333333332,named_entity,Mount Everest is the highest peak on Earth.
+17,0.8615833333333334,mathematical,Multiplication is repeated addition.
+22,0.8602666666666666,cultural_idiom,Break a leg before your performance.
+27,0.8565166666666667,cultural_idiom,He has a chip on his shoulder.
+14,0.8562333333333333,mathematical,Pi is approximately three point one four.
+28,0.8521000000000001,cultural_idiom,That idea is just a pie in the sky.
+56,0.8514833333333334,named_entity,The Great Wall of China stretches thousands of kilometres.
+23,0.8460000000000001,cultural_idiom,He let the cat out of the bag.
+59,0.8426333333333332,named_entity,Leonardo da Vinci painted the Mona Lisa.
+26,0.8287166666666667,cultural_idiom,We will cross that bridge when we come to it.
+21,0.8103166666666667,cultural_idiom,It is raining cats and dogs.

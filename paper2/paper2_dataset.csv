@@ -1,0 +1,241 @@
+category,sentence_id,language_code,language_name,text
+factual,1,eng_Latn,English,Water boils at one hundred degrees Celsius.
+factual,1,zho_Hans,Chinese,水在一百摄氏度时沸腾。
+factual,1,jpn_Jpan,Japanese,水は摂氏100度で沸騰する。
+factual,1,rus_Cyrl,Russian,Вода кипит при ста градусах Цельсия.
+factual,2,eng_Latn,English,The Earth orbits the Sun.
+factual,2,zho_Hans,Chinese,地球绕太阳运行。
+factual,2,jpn_Jpan,Japanese,地球は太陽の周りを回る。
+factual,2,rus_Cyrl,Russian,Земля вращается вокруг Солнца.
+factual,3,eng_Latn,English,Light travels faster than sound.
+factual,3,zho_Hans,Chinese,光比声音传播得快。
+factual,3,jpn_Jpan,Japanese,光は音より速く伝わる。
+factual,3,rus_Cyrl,Russian,Свет распространяется быстрее звука.
+factual,4,eng_Latn,English,Humans need oxygen to survive.
+factual,4,zho_Hans,Chinese,人类需要氧气才能生存。
+factual,4,jpn_Jpan,Japanese,人間は生きるために酸素が必要だ。
+factual,4,rus_Cyrl,Russian,Людям нужен кислород для выживания.
+factual,5,eng_Latn,English,The heart pumps blood through the body.
+factual,5,zho_Hans,Chinese,心脏将血液泵送到全身。
+factual,5,jpn_Jpan,Japanese,心臓は体中に血液を送り出す。
+factual,5,rus_Cyrl,Russian,Сердце перекачивает кровь по телу.
+factual,6,eng_Latn,English,Plants produce oxygen through photosynthesis.
+factual,6,zho_Hans,Chinese,植物通过光合作用产生氧气。
+factual,6,jpn_Jpan,Japanese,植物は光合成で酸素を生産する。
+factual,6,rus_Cyrl,Russian,Растения производят кислород в процессе фотосинтеза.
+factual,7,eng_Latn,English,The moon causes ocean tides.
+factual,7,zho_Hans,Chinese,月亮引起海洋潮汐。
+factual,7,jpn_Jpan,Japanese,月は海の潮汐を引き起こす。
+factual,7,rus_Cyrl,Russian,Луна вызывает морские приливы.
+factual,8,eng_Latn,English,Ice melts when heated above zero degrees.
+factual,8,zho_Hans,Chinese,冰在零度以上加热时融化。
+factual,8,jpn_Jpan,Japanese,氷は0度以上に加熱すると溶ける。
+factual,8,rus_Cyrl,Russian,Лёд тает при нагревании выше нуля градусов.
+factual,9,eng_Latn,English,Gravity pulls objects toward the Earth.
+factual,9,zho_Hans,Chinese,重力将物体拉向地球。
+factual,9,jpn_Jpan,Japanese,重力は物体を地球に引き寄せる。
+factual,9,rus_Cyrl,Russian,Гравитация притягивает предметы к Земле.
+factual,10,eng_Latn,English,Sound cannot travel through a vacuum.
+factual,10,zho_Hans,Chinese,声音无法在真空中传播。
+factual,10,jpn_Jpan,Japanese,音は真空中を伝わることができない。
+factual,10,rus_Cyrl,Russian,Звук не может распространяться в вакууме.
+mathematical,11,eng_Latn,English,Two plus two equals four.
+mathematical,11,zho_Hans,Chinese,二加二等于四。
+mathematical,11,jpn_Jpan,Japanese,2足す2は4である。
+mathematical,11,rus_Cyrl,Russian,Два плюс два равно четыре.
+mathematical,12,eng_Latn,English,A triangle has three sides.
+mathematical,12,zho_Hans,Chinese,三角形有三条边。
+mathematical,12,jpn_Jpan,Japanese,三角形には三辺がある。
+mathematical,12,rus_Cyrl,Russian,У треугольника три стороны.
+mathematical,13,eng_Latn,English,The square root of nine is three.
+mathematical,13,zho_Hans,Chinese,九的平方根是三。
+mathematical,13,jpn_Jpan,Japanese,9の平方根は3である。
+mathematical,13,rus_Cyrl,Russian,Квадратный корень из девяти равен трём.
+mathematical,14,eng_Latn,English,Pi is approximately three point one four.
+mathematical,14,zho_Hans,Chinese,圆周率约为三点一四。
+mathematical,14,jpn_Jpan,Japanese,円周率は約3.14である。
+mathematical,14,rus_Cyrl,Russian,Пи приблизительно равно трём и четырём сотым.
+mathematical,15,eng_Latn,English,An even number is divisible by two.
+mathematical,15,zho_Hans,Chinese,偶数能被二整除。
+mathematical,15,jpn_Jpan,Japanese,偶数は2で割り切れる。
+mathematical,15,rus_Cyrl,Russian,Чётное число делится на два.
+mathematical,16,eng_Latn,English,The sum of angles in a triangle is one hundred eighty degrees.
+mathematical,16,zho_Hans,Chinese,三角形内角之和为一百八十度。
+mathematical,16,jpn_Jpan,Japanese,三角形の内角の和は180度である。
+mathematical,16,rus_Cyrl,Russian,Сумма углов треугольника равна ста восьмидесяти градусам.
+mathematical,17,eng_Latn,English,Multiplication is repeated addition.
+mathematical,17,zho_Hans,Chinese,乘法是重复加法。
+mathematical,17,jpn_Jpan,Japanese,掛け算は繰り返しの足し算である。
+mathematical,17,rus_Cyrl,Russian,Умножение — это повторяющееся сложение.
+mathematical,18,eng_Latn,English,Zero multiplied by any number is zero.
+mathematical,18,zho_Hans,Chinese,零乘以任何数都等于零。
+mathematical,18,jpn_Jpan,Japanese,0にどんな数をかけても0になる。
+mathematical,18,rus_Cyrl,Russian,"Ноль, умноженный на любое число, равен нулю."
+mathematical,19,eng_Latn,English,A circle has three hundred sixty degrees.
+mathematical,19,zho_Hans,Chinese,一个圆有三百六十度。
+mathematical,19,jpn_Jpan,Japanese,円は360度である。
+mathematical,19,rus_Cyrl,Russian,В круге триста шестьдесят градусов.
+mathematical,20,eng_Latn,English,Negative numbers are less than zero.
+mathematical,20,zho_Hans,Chinese,负数小于零。
+mathematical,20,jpn_Jpan,Japanese,負の数はゼロより小さい。
+mathematical,20,rus_Cyrl,Russian,Отрицательные числа меньше нуля.
+cultural_idiom,21,eng_Latn,English,It is raining cats and dogs.
+cultural_idiom,21,zho_Hans,Chinese,外面下着倾盆大雨。
+cultural_idiom,21,jpn_Jpan,Japanese,土砂降りの雨が降っている。
+cultural_idiom,21,rus_Cyrl,Russian,На улице льёт как из ведра.
+cultural_idiom,22,eng_Latn,English,Break a leg before your performance.
+cultural_idiom,22,zho_Hans,Chinese,祝你演出顺利。
+cultural_idiom,22,jpn_Jpan,Japanese,公演がうまくいくといいね。
+cultural_idiom,22,rus_Cyrl,Russian,Желаю тебе удачи перед выступлением.
+cultural_idiom,23,eng_Latn,English,He let the cat out of the bag.
+cultural_idiom,23,zho_Hans,Chinese,他泄露了秘密。
+cultural_idiom,23,jpn_Jpan,Japanese,彼は秘密を漏らしてしまった。
+cultural_idiom,23,rus_Cyrl,Russian,Он выдал секрет.
+cultural_idiom,24,eng_Latn,English,She hit the nail on the head.
+cultural_idiom,24,zho_Hans,Chinese,她说得很准确。
+cultural_idiom,24,jpn_Jpan,Japanese,彼女はまさに的を射た。
+cultural_idiom,24,rus_Cyrl,Russian,Она попала в самую точку.
+cultural_idiom,25,eng_Latn,English,The ball is in your court now.
+cultural_idiom,25,zho_Hans,Chinese,现在轮到你了。
+cultural_idiom,25,jpn_Jpan,Japanese,今はあなたの番だ。
+cultural_idiom,25,rus_Cyrl,Russian,Теперь мяч на твоей стороне.
+cultural_idiom,26,eng_Latn,English,We will cross that bridge when we come to it.
+cultural_idiom,26,zho_Hans,Chinese,船到桥头自然直。
+cultural_idiom,26,jpn_Jpan,Japanese,その時はその時で考えよう。
+cultural_idiom,26,rus_Cyrl,Russian,Будем решать проблемы по мере их поступления.
+cultural_idiom,27,eng_Latn,English,He has a chip on his shoulder.
+cultural_idiom,27,zho_Hans,Chinese,他总是心怀不满。
+cultural_idiom,27,jpn_Jpan,Japanese,彼はいつも不満を抱えている。
+cultural_idiom,27,rus_Cyrl,Russian,Он вечно чем-то недоволен.
+cultural_idiom,28,eng_Latn,English,That idea is just a pie in the sky.
+cultural_idiom,28,zho_Hans,Chinese,那个想法只是空想。
+cultural_idiom,28,jpn_Jpan,Japanese,その考えは絵に描いた餅だ。
+cultural_idiom,28,rus_Cyrl,Russian,Эта идея — просто несбыточная мечта.
+cultural_idiom,29,eng_Latn,English,She burned the midnight oil to finish.
+cultural_idiom,29,zho_Hans,Chinese,她熬夜完成了工作。
+cultural_idiom,29,jpn_Jpan,Japanese,彼女は夜遅くまで頑張って仕上げた。
+cultural_idiom,29,rus_Cyrl,Russian,"Она работала допоздна, чтобы закончить."
+cultural_idiom,30,eng_Latn,English,He kicked the bucket last year.
+cultural_idiom,30,zho_Hans,Chinese,他去年去世了。
+cultural_idiom,30,jpn_Jpan,Japanese,彼は去年亡くなった。
+cultural_idiom,30,rus_Cyrl,Russian,Он умер в прошлом году.
+grammar_dependent,31,eng_Latn,English,She gave him a gift yesterday.
+grammar_dependent,31,zho_Hans,Chinese,她昨天给了他一份礼物。
+grammar_dependent,31,jpn_Jpan,Japanese,彼女は昨日彼にプレゼントをあげた。
+grammar_dependent,31,rus_Cyrl,Russian,Она подарила ему подарок вчера.
+grammar_dependent,32,eng_Latn,English,The books were read by the students.
+grammar_dependent,32,zho_Hans,Chinese,这些书被学生们读过了。
+grammar_dependent,32,jpn_Jpan,Japanese,その本は学生たちに読まれた。
+grammar_dependent,32,rus_Cyrl,Russian,Книги были прочитаны студентами.
+grammar_dependent,33,eng_Latn,English,"If it rains tomorrow, I will stay home."
+grammar_dependent,33,zho_Hans,Chinese,如果明天下雨，我会待在家里。
+grammar_dependent,33,jpn_Jpan,Japanese,明日雨が降ったら、家にいる。
+grammar_dependent,33,rus_Cyrl,Russian,"Если завтра будет дождь, я останусь дома."
+grammar_dependent,34,eng_Latn,English,He has been working since morning.
+grammar_dependent,34,zho_Hans,Chinese,他从早上就开始工作了。
+grammar_dependent,34,jpn_Jpan,Japanese,彼は朝からずっと働いている。
+grammar_dependent,34,rus_Cyrl,Russian,Он работает с самого утра.
+grammar_dependent,35,eng_Latn,English,The red car belongs to my neighbor.
+grammar_dependent,35,zho_Hans,Chinese,那辆红色的车是我邻居的。
+grammar_dependent,35,jpn_Jpan,Japanese,その赤い車は私の隣人のものだ。
+grammar_dependent,35,rus_Cyrl,Russian,Красная машина принадлежит моему соседу.
+grammar_dependent,36,eng_Latn,English,I would have gone if I had known.
+grammar_dependent,36,zho_Hans,Chinese,如果我知道的话，我就去了。
+grammar_dependent,36,jpn_Jpan,Japanese,知っていたら行っていただろう。
+grammar_dependent,36,rus_Cyrl,Russian,"Я бы пошёл, если бы знал."
+grammar_dependent,37,eng_Latn,English,Neither she nor he was present.
+grammar_dependent,37,zho_Hans,Chinese,她和他都不在场。
+grammar_dependent,37,jpn_Jpan,Japanese,彼女も彼も出席していなかった。
+grammar_dependent,37,rus_Cyrl,Russian,"Ни она, ни он не присутствовали."
+grammar_dependent,38,eng_Latn,English,"The faster you work, the sooner you finish."
+grammar_dependent,38,zho_Hans,Chinese,你工作得越快，完成得就越早。
+grammar_dependent,38,jpn_Jpan,Japanese,速く働けば働くほど、早く終わる。
+grammar_dependent,38,rus_Cyrl,Russian,"Чем быстрее работаешь, тем раньше заканчиваешь."
+grammar_dependent,39,eng_Latn,English,"Despite the rain, we continued walking."
+grammar_dependent,39,zho_Hans,Chinese,尽管下雨，我们继续走路。
+grammar_dependent,39,jpn_Jpan,Japanese,雨にもかかわらず、私たちは歩き続けた。
+grammar_dependent,39,rus_Cyrl,Russian,"Несмотря на дождь, мы продолжали идти."
+grammar_dependent,40,eng_Latn,English,It was not until noon that he arrived.
+grammar_dependent,40,zho_Hans,Chinese,直到中午他才到达。
+grammar_dependent,40,jpn_Jpan,Japanese,彼が到着したのは正午になってからだった。
+grammar_dependent,40,rus_Cyrl,Russian,Он прибыл только в полдень.
+emotional_nuance,41,eng_Latn,English,I feel a deep sense of loneliness tonight.
+emotional_nuance,41,zho_Hans,Chinese,今晚我感到深深的孤独。
+emotional_nuance,41,jpn_Jpan,Japanese,今夜、深い孤独感を感じる。
+emotional_nuance,41,rus_Cyrl,Russian,Сегодня вечером я чувствую глубокое одиночество.
+emotional_nuance,42,eng_Latn,English,She was overwhelmed with grief.
+emotional_nuance,42,zho_Hans,Chinese,她悲痛欲绝。
+emotional_nuance,42,jpn_Jpan,Japanese,彼女は深い悲しみに打ちひしがれた。
+emotional_nuance,42,rus_Cyrl,Russian,Она была охвачена горем.
+emotional_nuance,43,eng_Latn,English,The unexpected kindness moved him to tears.
+emotional_nuance,43,zho_Hans,Chinese,意外的善意让他感动得流泪。
+emotional_nuance,43,jpn_Jpan,Japanese,思いがけない優しさに彼は涙した。
+emotional_nuance,43,rus_Cyrl,Russian,Неожиданная доброта растрогала его до слёз.
+emotional_nuance,44,eng_Latn,English,There is a bittersweet feeling about leaving.
+emotional_nuance,44,zho_Hans,Chinese,离开有一种苦乐参半的感觉。
+emotional_nuance,44,jpn_Jpan,Japanese,去ることに複雑な気持ちがある。
+emotional_nuance,44,rus_Cyrl,Russian,Уход вызывает горько-сладкое чувство.
+emotional_nuance,45,eng_Latn,English,He felt a quiet pride in his work.
+emotional_nuance,45,zho_Hans,Chinese,他对自己的工作感到一种安静的自豪。
+emotional_nuance,45,jpn_Jpan,Japanese,彼は自分の仕事に静かな誇りを感じた。
+emotional_nuance,45,rus_Cyrl,Russian,Он испытывал тихую гордость за свою работу.
+emotional_nuance,46,eng_Latn,English,The nostalgia for home never fades.
+emotional_nuance,46,zho_Hans,Chinese,对家乡的思念从未消退。
+emotional_nuance,46,jpn_Jpan,Japanese,故郷への郷愁は決して消えない。
+emotional_nuance,46,rus_Cyrl,Russian,Тоска по дому никогда не проходит.
+emotional_nuance,47,eng_Latn,English,She carried the weight of unspoken words.
+emotional_nuance,47,zho_Hans,Chinese,她承受着未说出口的话的重量。
+emotional_nuance,47,jpn_Jpan,Japanese,彼女は言えなかった言葉の重さを抱えていた。
+emotional_nuance,47,rus_Cyrl,Russian,Она несла в себе тяжесть невысказанных слов.
+emotional_nuance,48,eng_Latn,English,The joy of reunion after long separation.
+emotional_nuance,48,zho_Hans,Chinese,长期分离后重聚的喜悦。
+emotional_nuance,48,jpn_Jpan,Japanese,長い別れの後の再会の喜び。
+emotional_nuance,48,rus_Cyrl,Russian,Радость воссоединения после долгой разлуки.
+emotional_nuance,49,eng_Latn,English,He laughed to hide his fear.
+emotional_nuance,49,zho_Hans,Chinese,他用笑声掩盖自己的恐惧。
+emotional_nuance,49,jpn_Jpan,Japanese,彼は恐怖を隠すために笑った。
+emotional_nuance,49,rus_Cyrl,Russian,"Он смеялся, чтобы скрыть свой страх."
+emotional_nuance,50,eng_Latn,English,The silence between them was comfortable.
+emotional_nuance,50,zho_Hans,Chinese,他们之间的沉默是舒适的。
+emotional_nuance,50,jpn_Jpan,Japanese,二人の間の沈黙は心地よかった。
+emotional_nuance,50,rus_Cyrl,Russian,Молчание между ними было комфортным.
+named_entity,51,eng_Latn,English,Albert Einstein was born in Germany.
+named_entity,51,zho_Hans,Chinese,阿尔伯特·爱因斯坦出生在德国。
+named_entity,51,jpn_Jpan,Japanese,アルベルト・アインシュタインはドイツで生まれた。
+named_entity,51,rus_Cyrl,Russian,Альберт Эйнштейн родился в Германии.
+named_entity,52,eng_Latn,English,The Amazon River flows through Brazil.
+named_entity,52,zho_Hans,Chinese,亚马逊河流经巴西。
+named_entity,52,jpn_Jpan,Japanese,アマゾン川はブラジルを流れる。
+named_entity,52,rus_Cyrl,Russian,Река Амазонка протекает через Бразилию.
+named_entity,53,eng_Latn,English,The Eiffel Tower is located in Paris.
+named_entity,53,zho_Hans,Chinese,埃菲尔铁塔位于巴黎。
+named_entity,53,jpn_Jpan,Japanese,エッフェル塔はパリにある。
+named_entity,53,rus_Cyrl,Russian,Эйфелева башня находится в Париже.
+named_entity,54,eng_Latn,English,Mount Everest is the highest peak on Earth.
+named_entity,54,zho_Hans,Chinese,珠穆朗玛峰是地球上最高的山峰。
+named_entity,54,jpn_Jpan,Japanese,エベレスト山は地球上で最も高い峰だ。
+named_entity,54,rus_Cyrl,Russian,Гора Эверест — высочайшая вершина Земли.
+named_entity,55,eng_Latn,English,Shakespeare wrote Hamlet.
+named_entity,55,zho_Hans,Chinese,莎士比亚写了《哈姆雷特》。
+named_entity,55,jpn_Jpan,Japanese,シェイクスピアはハムレットを書いた。
+named_entity,55,rus_Cyrl,Russian,Шекспир написал Гамлета.
+named_entity,56,eng_Latn,English,The Great Wall of China stretches thousands of kilometres.
+named_entity,56,zho_Hans,Chinese,中国长城绵延数千公里。
+named_entity,56,jpn_Jpan,Japanese,万里の長城は何千キロも続いている。
+named_entity,56,rus_Cyrl,Russian,Великая Китайская стена тянется на тысячи километров.
+named_entity,57,eng_Latn,English,Gandhi led India to independence.
+named_entity,57,zho_Hans,Chinese,甘地带领印度走向独立。
+named_entity,57,jpn_Jpan,Japanese,ガンジーはインドを独立に導いた。
+named_entity,57,rus_Cyrl,Russian,Ганди привёл Индию к независимости.
+named_entity,58,eng_Latn,English,The Pacific Ocean is the largest ocean.
+named_entity,58,zho_Hans,Chinese,太平洋是最大的海洋。
+named_entity,58,jpn_Jpan,Japanese,太平洋は最大の海洋だ。
+named_entity,58,rus_Cyrl,Russian,Тихий океан — самый большой океан.
+named_entity,59,eng_Latn,English,Leonardo da Vinci painted the Mona Lisa.
+named_entity,59,zho_Hans,Chinese,列奥纳多·达·芬奇画了蒙娜丽莎。
+named_entity,59,jpn_Jpan,Japanese,レオナルド・ダ・ヴィンチがモナ・リザを描いた。
+named_entity,59,rus_Cyrl,Russian,Леонардо да Винчи написал Мону Лизу.
+named_entity,60,eng_Latn,English,The Olympics were first held in ancient Greece.
+named_entity,60,zho_Hans,Chinese,奥运会最早在古希腊举行。
+named_entity,60,jpn_Jpan,Japanese,オリンピックは古代ギリシャで初めて開催された。
+named_entity,60,rus_Cyrl,Russian,Олимпийские игры впервые проводились в Древней Греции.
